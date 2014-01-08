@@ -1,0 +1,13 @@
+// Decompiled by DJ v3.7.7.81 Copyright 2004 Atanas Neshkov  Date: 01/10/2006 11:16:57
+// Home Page : http://members.fortunecity.com/neshkov/dj.html  - Check often for new version!
+// Decompiler options: packimports(3) 
+
+package javazoom.jl.decoder;
+
+
+public interface JavaLayerErrors
+{
+
+    public static final int BITSTREAM_ERROR = 256;
+    public static final int DECODER_ERROR = 512;
+}

@@ -1,0 +1,29 @@
+// Decompiled by DJ v3.7.7.81 Copyright 2004 Atanas Neshkov  Date: 01/10/2006 11:16:45
+// Home Page : http://members.fortunecity.com/neshkov/dj.html  - Check often for new version!
+// Decompiler options: packimports(3) 
+
+package javazoom.jl.decoder;
+
+
+// Referenced classes of package javazoom.jl.decoder:
+//            Control
+
+public class Manager
+{
+
+    public Manager()
+    {
+    }
+
+    public void addControl(Control control)
+    {
+    }
+
+    public void removeControl(Control control)
+    {
+    }
+
+    public void removeAll()
+    {
+    }
+}

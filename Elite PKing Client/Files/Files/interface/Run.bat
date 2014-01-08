@@ -1,0 +1,1 @@
+rename *.jpg *.dat

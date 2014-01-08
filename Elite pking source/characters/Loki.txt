@@ -1,0 +1,165 @@
+[ACCOUNT]
+character-username = Loki
+character-password = 7895123
+
+[CHARACTER]
+character-height = 0
+character-posx = 3087
+character-posy = 3488
+character-rights = 3
+character-lastconnection = Max-VAIO.millardps.net
+character-special = 100
+character-tz = -1
+character-starter = 1
+character-pouch1 = 0
+character-pouch2 = 0
+character-pouch3 = 0
+character-pouch4 = 0
+character-energy = 100
+character-taskID = -1
+character-taskAmount = -1
+character-jad = 0
+character-q1 = 0
+character-q2 = 0
+character-q3 = 0
+character-q4 = 0
+character-q5 = 0
+character-q6 = 0
+character-q7 = 0
+character-q8 = 0
+character-q9 = 0
+character-q10 = 0
+character-q11 = 0
+character-brightness = 0
+character-fighttype = 1
+character-skill = 0
+character-chat = 1
+character-ancients = 0
+character-pin = 0
+character-marks 0
+character-saradomin = 0
+character-retaliate = 1
+character-action = 0
+character-pcpoints = 0
+character-assault = 0
+character-donator = 0
+character-bow = 100
+character-shield = 100
+
+[EQUIPMENT]
+character-equip = 0	2721	1	
+character-equip = 1	14521	1	
+character-equip = 2	6585	1	
+character-equip = 3	1409	1	
+character-equip = 4	3869	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	3870	1	
+character-equip = 8	-1	0	
+character-equip = 9	7457	1	
+character-equip = 10	3061	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	16
+character-look = 3	20
+character-look = 4	31
+character-look = 5	33
+character-look = 6	39
+character-look = 7	42
+character-look = 8	3
+character-look = 9	1
+character-look = 10	2
+character-look = 11	3
+character-look = 12	0
+character-look = 13	2
+character-look = 14	6
+character-look = 15	7
+character-look = 16	10
+character-look = 17	5
+character-look = 18	0
+
+[SKILLS]
+character-skill = 0	99	13121000
+character-skill = 1	99	13100000
+character-skill = 2	99	13100000
+character-skill = 3	99	13116155
+character-skill = 4	99	13100000
+character-skill = 5	99	13100000
+character-skill = 6	99	13100000
+character-skill = 7	99	13100000
+character-skill = 8	99	13100000
+character-skill = 9	99	13100000
+character-skill = 10	99	13100000
+character-skill = 11	99	13100000
+character-skill = 12	99	13100000
+character-skill = 13	99	13100000
+character-skill = 14	99	13100000
+character-skill = 15	99	13100000
+character-skill = 16	99	13100000
+character-skill = 17	99	13100000
+character-skill = 18	99	13100000
+character-skill = 19	99	13100000
+character-skill = 20	99	13100000
+character-skill = 21	1	0
+character-skill = 22	0	0
+character-skill = 23	1	0
+character-skill = 24	0	0
+
+[ITEMS]
+character-item = 0	13013	1
+
+[BANK]
+character-bank = 0	996	999799498
+character-bank = 1	386	500
+character-bank = 2	1053	1
+character-bank = 3	4711	1
+character-bank = 4	2753	1
+character-bank = 5	2413	1
+character-bank = 6	2415	1
+character-bank = 7	88	1
+character-bank = 8	2594	1
+character-bank = 9	6620	1
+character-bank = 10	2744	1
+character-bank = 11	2743	1
+character-bank = 12	1402	1
+character-bank = 13	3054	1
+character-bank = 14	773	1
+character-bank = 15	2592	1
+character-bank = 16	7900	1
+character-bank = 17	2742	1
+character-bank = 18	2582	1
+character-bank = 19	4348	1
+character-bank = 20	85	1
+character-bank = 21	6564	1
+character-bank = 22	6604	1
+character-bank = 23	4171	1
+character-bank = 24	3889	1
+character-bank = 25	4676	1
+character-bank = 26	2417	1
+character-bank = 27	2416	1
+character-bank = 28	2418	1
+character-bank = 29	3879	1
+character-bank = 30	3878	1
+character-bank = 31	3875	1
+character-bank = 32	3874	1
+character-bank = 33	4364	2
+character-bank = 34	2692	1
+character-bank = 35	7779	1
+character-bank = 36	2741	1
+character-bank = 37	1838	1
+character-bank = 38	3872	1
+character-bank = 39	4356	1
+character-bank = 40	13648	1
+character-bank = 41	3061	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

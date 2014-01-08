@@ -1,0 +1,22 @@
+Random Places:
+3504 3575
+3165 9628 (SANTA)
+Starter Area:
+3051 3490
+2513 3860
+Donor Area:
+2575 3027
+Admin Area:
+2637 9909?
+2867 9955 - Block it off
+OwnerArea:
+2443 2956
+
+Training Areas:
+2966 9633
+2319 9804
+
+PK Area:
+
+Jail:
+2676 3008

@@ -1,0 +1,172 @@
+// Decompiled by DJ v3.7.7.81 Copyright 2004 Atanas Neshkov  Date: 01/10/2006 11:16:18
+// Home Page : http://members.fortunecity.com/neshkov/dj.html  - Check often for new version!
+// Decompiler options: packimports(3) 
+
+package javazoom.jl.converter;
+
+
+// Referenced classes of package javazoom.jl.converter:
+//            RiffFile
+
+public class WaveFile extends RiffFile
+{
+    public class WaveFileSample
+    {
+
+        public short chan[];
+
+        public WaveFileSample()
+        {
+            chan = new short[2];
+        }
+    }
+
+    class WaveFormat_Chunk
+    {
+
+        public int VerifyValidity()
+        {
+            boolean flag = header.ckID == RiffFile.FourCC("fmt ") && (data.nChannels == 1 || data.nChannels == 2) && data.nAvgBytesPerSec == (data.nChannels * data.nSamplesPerSec * data.nBitsPerSample) / 8 && data.nBlockAlign == (data.nChannels * data.nBitsPerSample) / 8;
+            return !flag ? 0 : 1;
+        }
+
+        public RiffFile.RiffChunkHeader header;
+        public WaveFormat_ChunkData data;
+
+        public WaveFormat_Chunk()
+        {
+            header = new RiffFile.RiffChunkHeader(WaveFile.this);
+            data = new WaveFormat_ChunkData();
+            header.ckID = RiffFile.FourCC("fmt ");
+            header.ckSize = 16;
+        }
+    }
+
+    class WaveFormat_ChunkData
+    {
+
+        public void Config(int i, short word0, short word1)
+        {
+            nSamplesPerSec = i;
+            nChannels = word1;
+            nBitsPerSample = word0;
+            nAvgBytesPerSec = (nChannels * nSamplesPerSec * nBitsPerSample) / 8;
+            nBlockAlign = (short)((nChannels * nBitsPerSample) / 8);
+        }
+
+        public short wFormatTag;
+        public short nChannels;
+        public int nSamplesPerSec;
+        public int nAvgBytesPerSec;
+        public short nBlockAlign;
+        public short nBitsPerSample;
+
+        public WaveFormat_ChunkData()
+        {
+            wFormatTag = 0;
+            nChannels = 0;
+            nSamplesPerSec = 0;
+            nAvgBytesPerSec = 0;
+            nBlockAlign = 0;
+            nBitsPerSample = 0;
+            wFormatTag = 1;
+            Config(44100, (short)16, (short)1);
+        }
+    }
+
+
+    public WaveFile()
+    {
+        pcm_data_offset = 0L;
+        num_samples = 0;
+        pcm_data = new RiffFile.RiffChunkHeader(this);
+        wave_format = new WaveFormat_Chunk();
+        pcm_data.ckID = FourCC("data");
+        pcm_data.ckSize = 0;
+        num_samples = 0;
+    }
+
+    public int OpenForWrite(String s, int i, short word0, short word1)
+    {
+        if(s == null || word0 != 8 && word0 != 16 || word1 < 1 || word1 > 2)
+            return 4;
+        wave_format.data.Config(i, word0, word1);
+        int j = Open(s, 1);
+        if(j == 0)
+        {
+            byte abyte0[] = {
+                87, 65, 86, 69
+            };
+            j = Write(abyte0, 4);
+            if(j == 0)
+            {
+                j = Write(wave_format.header, 8);
+                j = Write(wave_format.data.wFormatTag, 2);
+                j = Write(wave_format.data.nChannels, 2);
+                j = Write(wave_format.data.nSamplesPerSec, 4);
+                j = Write(wave_format.data.nAvgBytesPerSec, 4);
+                j = Write(wave_format.data.nBlockAlign, 2);
+                j = Write(wave_format.data.nBitsPerSample, 2);
+                if(j == 0)
+                {
+                    pcm_data_offset = CurrentFilePosition();
+                    j = Write(pcm_data, 8);
+                }
+            }
+        }
+        return j;
+    }
+
+    public int WriteData(short aword0[], int i)
+    {
+        int j = i * 2;
+        pcm_data.ckSize += j;
+        return super.Write(aword0, j);
+    }
+
+    public int Close()
+    {
+        int i = 0;
+        if(fmode == 1)
+            i = Backpatch(pcm_data_offset, pcm_data, 8);
+        if(i == 0)
+            i = super.Close();
+        return i;
+    }
+
+    public int SamplingRate()
+    {
+        return wave_format.data.nSamplesPerSec;
+    }
+
+    public short BitsPerSample()
+    {
+        return wave_format.data.nBitsPerSample;
+    }
+
+    public short NumChannels()
+    {
+        return wave_format.data.nChannels;
+    }
+
+    public int NumSamples()
+    {
+        return num_samples;
+    }
+
+    public int OpenForWrite(String s, WaveFile wavefile)
+    {
+        return OpenForWrite(s, wavefile.SamplingRate(), wavefile.BitsPerSample(), wavefile.NumChannels());
+    }
+
+    public long CurrentFilePosition()
+    {
+        return super.CurrentFilePosition();
+    }
+
+    public static final int MAX_WAVE_CHANNELS = 2;
+    private WaveFormat_Chunk wave_format;
+    private RiffFile.RiffChunkHeader pcm_data;
+    private long pcm_data_offset;
+    private int num_samples;
+}

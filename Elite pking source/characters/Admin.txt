@@ -1,0 +1,130 @@
+[ACCOUNT]
+character-username = Admin
+character-password = admin
+
+[CHARACTER]
+character-height = 0
+character-posx = 3089
+character-posy = 3492
+character-rights = 2
+character-lastconnection = Max-VAIO.millardps.net
+character-special = 100
+character-tz = -1
+character-starter = 1
+character-pouch1 = 0
+character-pouch2 = 0
+character-pouch3 = 0
+character-pouch4 = 0
+character-energy = 100
+character-taskID = -1
+character-taskAmount = -1
+character-jad = 0
+character-q1 = 0
+character-q2 = 0
+character-q3 = 0
+character-q4 = 0
+character-q5 = 0
+character-q6 = 0
+character-q7 = 0
+character-q8 = 0
+character-q9 = 0
+character-q10 = 0
+character-q11 = 0
+character-brightness = 0
+character-fighttype = 1
+character-skill = 0
+character-chat = 1
+character-ancients = 0
+character-pin = 0
+character-marks 0
+character-saradomin = 0
+character-retaliate = 1
+character-action = 0
+character-pcpoints = 0
+character-assault = 0
+character-donator = 0
+character-bow = 100
+character-shield = 100
+
+[EQUIPMENT]
+character-equip = 0	656	0	
+character-equip = 1	2414	0	
+character-equip = 2	6585	0	
+character-equip = 3	4587	0	
+character-equip = 4	1035	0	
+character-equip = 5	3842	0	
+character-equip = 6	-1	0	
+character-equip = 7	1033	0	
+character-equip = 8	-1	0	
+character-equip = 9	7458	0	
+character-equip = 10	3105	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	16
+character-look = 3	20
+character-look = 4	31
+character-look = 5	33
+character-look = 6	39
+character-look = 7	42
+character-look = 8	3
+character-look = 9	1
+character-look = 10	2
+character-look = 11	3
+character-look = 12	0
+character-look = 13	2
+character-look = 14	6
+character-look = 15	7
+character-look = 16	10
+character-look = 17	5
+character-look = 18	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	10	1155
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	0	0
+character-skill = 23	1	0
+character-skill = 24	0	0
+
+[ITEMS]
+character-item = 0	996	2000000
+character-item = 1	556	600
+character-item = 2	561	600
+character-item = 3	566	600
+character-item = 4	387	500
+character-item = 5	159	20
+character-item = 6	147	20
+character-item = 7	141	20
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

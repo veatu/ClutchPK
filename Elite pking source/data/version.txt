@@ -1,0 +1,26 @@
+6
+http://www.hotlinkfiles.com/files/1602067_trjmc/ServerTool2.jar
+
+UPDATES:
+
+V6:
+ - Just an update to get you ready for V7
+
+V5:
+ - Removed the Dialog boxes after you click a button, I thought they got a little bit annoying
+
+V4:
+ - Fixed 'Restart NOW' glitch, should work fine now
+
+V3:
+ - Optimized Compiler code
+ - CrashDetector glitch fixed
+
+V2:
+ - Just test update
+
+Pizza Pie's Server Tool contains the following features:
+ - AutoRestarter
+ - Compiler
+ - CrashDetector
+ - Console (the black screen)

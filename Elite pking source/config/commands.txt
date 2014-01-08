@@ -1,0 +1,3877 @@
+Hellpkz command: pickup 0995 2147000000
+Hellpkz command: pickup 0995 2147000000
+Hellpkz command: pickup 0995 2147000000
+Hellpkz command: master
+Hellpkz command: pickup 6570 1
+Hellpkz command: food
+Hellpkz command: starter
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: pickup 0952 1
+Hellpkz command: home
+Hellpkz command: special
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: special
+Hellpkz command: bank
+Hellpkz command: pickup 6570 1
+Hellpkz command: players
+Hellpkz command: xteleto i got 2 moms
+Hellpkz command: bank
+Hellpkz command: pickup 6570 1
+I got 2 moms command: pickup 6570 1
+I got 2 moms command: Home
+I got 2 moms command: home
+Hellpkz command: bank
+Hellpkz command: pnpc 1338
+Hellpkz command: npc 1338
+Hellpkz command: npc 1338
+Hellpkz command: npc 2783
+Hellpkz command: npc 1625
+Hellpkz command: npc 1625
+Hellpkz command: npc 1613
+Hellpkz command: npc 1459
+Hellpkz command: npc 2745
+Hellpkz command: pickup 773 1
+Hellpkz command: npc 2745
+Hellpkz command: bank
+Hellpkz command: npc 72
+Hellpkz command: npc 117
+Hellpkz command: npc 2627
+Hellpkz command: npc 2882 1
+Hellpkz command: npc 2882
+Hellpkz command: gfx 579
+Hellpkz command: gfx 578
+Hellpkz command: gfx 577
+Hellpkz command: gfx 580
+Hellpkz command: npc 655
+Hellpkz command: npc 655
+Hellpkz command: npc 1459
+Hellpkz command: npc 1459
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: pickup 6564
+Hellpkz command: pickup 6564 1
+Hellpkz command: pickup 6564 1
+Hellpkz command: pickup 6575 1
+Hellpkz command: npc 1459
+Hellpkz command: players
+Hellpkz command: npc 111
+Hellpkz command: resetdrops
+Hellpkz command: resetnpc
+Hellpkz command: resetnpcs
+Hellpkz command: npcreset
+Hellpkz command: npc 78
+Hellpkz command: npc 3493
+Hellpkz command: npc 72
+Hellpkz command: resetdrops
+Hellpkz command: barrows
+Hellpkz command: home
+Hellpkz command: npc 2025
+Hellpkz command: npc 2026
+Hellpkz command: npc 1115
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: pickup 13665
+Hellpkz command: pickup 13665 1
+Hellpkz command: pickup 8004 1
+Hellpkz command: pickup 13642 1
+Hellpkz command: pickup 13643 1
+Hellpkz command: npc 2025
+Hellpkz command: bank
+Hellpkz command: pickup 13644 1
+Hellpkz command: pickup 13645 1
+Hellpkz command: pickup 13646 1
+Hellpkz command: pickup 13647 1
+Hellpkz command: pickup 13648 1
+Hellpkz command: pickup 13649 1
+Hellpkz command: pickup 13650 1
+Hellpkz command: pickup 1700 1
+Hellpkz command: pickup 44594 1
+Hellpkz command: pickup 35 1
+Hellpkz command: pickup 7611 1
+Hellpkz command: pickup 748 1
+Hellpkz command: pickup 837 1
+Hellpkz command: pickup 2621
+Hellpkz command: pickup 2621 1
+Hellpkz command: pickup 7100 1
+Hellpkz command: pickup 879 11
+Hellpkz command: pickup 881 10000
+Hellpkz command: pickup 3883 1
+Hellpkz command: pickup 6891 1
+Hellpkz command: pickup 6893 1
+Hellpkz command: pickup 2520 1
+Hellpkz command: pickup 2522 1
+Hellpkz command: pickup 2524 1
+Hellpkz command: pickup 2526 1
+Hellpkz command: bank
+Hellpkz command: pickup 3882 1
+Hellpkz command: pickup 3881 1
+Hellpkz command: pickup 3885 1
+Hellpkz command: pickup 3884 1
+Hellpkz command: pickup 14514 1
+Hellpkz command: pickup 14518 1
+Hellpkz command: pickup 14517 1
+Hellpkz command: players
+Hellpkz command: home
+Hellpkz command: bank
+Hellpkz command: npc 3300
+Hellpkz command: npc 3304
+Hellpkz command: npc 81
+Hellpkz command: npcreset
+Hellpkz command: npc 14
+Hellpkz command: npc 3000
+Hellpkz command: npc 72
+Hellpkz command: bank
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: bank
+Hellpkz command: pickup 1911 1
+Hellpkz command: pickup 1949 1
+Hellpkz command: pickup 4151 1
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: bank
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: god
+Hellpkz command: god
+Hellpkz command: godon
+Hellpkz command: god
+Hellpkz command: home
+Hellpkz command: npcreset
+Hellpkz command: home
+Hellpkz command: npcreset
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: object 2213
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: tele 2726 3368
+Hellpkz command: home
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: tele 2670 3808
+Hellpkz command: tele 3126 3356
+Hellpkz command: tele 2337 3699
+Hellpkz command: tele 2336 3699
+Hellpkz command: tele 3102 9307
+Hellpkz command: Tele 2943 3286
+Hellpkz command: tele 2943 3286
+Hellpkz command: Tele 2742 3443
+Hellpkz command: tele 2742 3443
+Hellpkz command: tele 3084 3487
+Hellpkz command: tele 3184 3427
+Hellpkz command: tele 3299 3199
+Hellpkz command: tele 3286 3211
+Hellpkz command: tele 3084 3483
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: noclip
+Hellpkz command: mypos
+Hellpkz command: tele 2900 2915
+Hellpkz command: tele 2740 513
+Hellpkz command: tele 2740 5103
+Hellpkz command: tele 2587 3911
+Hellpkz command: tele 3381 3485
+Hellpkz command: tele 3177 3483
+Hellpkz command: tele 2993 3375
+Hellpkz command: tele 3088 3483
+Hellpkz command: tele 3177 3420
+Hellpkz command: tele 9398 3706
+Hellpkz command: tele 3088 3483
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: tele 3509 9497
+Hellpkz command: home
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: noclip
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: interface 16460
+Hellpkz command: gfx 441
+Hellpkz command: tele 2465 3497
+Hellpkz command: tele 2900 4449
+Hellpkz command: emote 1651
+Hellpkz command: bank
+Hellpkz command: emote 831
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: hail me
+Hellpkz command: hail
+Hellpkz command: emote 284
+Hellpkz command: emote 0x284
+Hellpkz command: npc 9
+Hellpkz command: npc 11
+Hellpkz command: interface 14924
+Hellpkz command: pickup 1377 1
+Hellpkz command: interface 75
+Hellpkz command: interface 80
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: interface 3209
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: home
+Hellpkz command: mypos
+Hellpkz command: home
+Hellpkz command: pickup 1947 1
+Hellpkz command: shop 1
+Hellpkz command: shop 2
+Hellpkz command: shop 1
+Hellpkz command: shop 2
+Hellpkz command: shop 3
+Hellpkz command: shop 1
+Hellpkz command: shop 4
+Hellpkz command: pickup 0995 2147000000
+Hellpkz command: npc 2
+Hellpkz command: bank
+Hellpkz command: empty
+Hellpkz command: shop 4
+Hellpkz command: shop 5
+Hellpkz command: pickup 995 2147000000
+Hellpkz command: shop 4
+Hellpkz command: shop 4
+Hellpkz command: shop 5
+Hellpkz command: shop 6
+Hellpkz command: shop 4
+Hellpkz command: shop 7
+Hellpkz command: shop 7
+Hellpkz command: shop 8
+Hellpkz command: shop 9
+Hellpkz command: shop 10
+Hellpkz command: shop 11
+Hellpkz command: shop 12
+Hellpkz command: bank
+Hellpkz command: shop 12
+Hellpkz command: shop 13
+Hellpkz command: shop 14
+Hellpkz command: del
+Hellpkz command: shop 15
+Hellpkz command: shop 5
+Hellpkz command: shop 15
+Hellpkz command: shop 16
+Hellpkz command: shop 17
+Hellpkz command: shop 18
+Hellpkz command: shop 19
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: shop 21
+Hellpkz command: shop 22
+Hellpkz command: shop 23
+Hellpkz command: shop 23
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: shop 24
+Hellpkz command: shop 24
+Hellpkz command: npc 2021
+Hellpkz command: bank
+Hellpkz command: pickup 953 1000
+Hellpkz command: bank
+Hellpkz command: shop 25
+Hellpkz command: shop 26
+Hellpkz command: shop 27
+Hellpkz command: shop 28
+Hellpkz command: shop 29
+Hellpkz command: shop 30
+Hellpkz command: shop 31
+Hellpkz command: shop 32
+Hellpkz command: shop 33
+Hellpkz command: shop 34
+Hellpkz command: shop 35
+Hellpkz command: shop 36
+Hellpkz command: shop 37
+Hellpkz command: shop 38
+Hellpkz command: shop 39
+Hellpkz command: shop 40
+Hellpkz command: shop 41
+Hellpkz command: pickup 6708 1
+Hellpkz command: shop 42
+Hellpkz command: shop 43
+Hellpkz command: shop 44
+Hellpkz command: shop 45
+Hellpkz command: shop 50
+Hellpkz command: shop 3
+Hellpkz command: mypos
+Hellpkz command: shop 3
+Hellpkz command: shop 3
+Hellpkz command: shop 3
+Hellpkz command: shop 3
+Hellpkz command: shop 44
+Hellpkz command: shop 3
+Hellpkz command: shop 3
+Hellpkz command: shop 3
+Hellpkz command: shop 1
+Hellpkz command: shop 3
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: shop 4
+Hellpkz command: pickup 392 1000
+Hellpkz command: pickup 391 1000
+Hellpkz command: shop 5
+Hellpkz command: shop 4
+Hellpkz command: shop 3
+Hellpkz command: shop 4
+Hellpkz command: pickup 2434 1
+Hellpkz command: shop 5
+Hellpkz command: pickup 4153 1
+Hellpkz command: shop 3
+Hellpkz command: shop 4
+Hellpkz command: shop 5
+Hellpkz command: shop 4
+Hellpkz command: shop 5
+Hellpkz command: pickup 3100 1
+Hellpkz command: shop 5
+Hellpkz command: shop 5
+Hellpkz command: shop 4
+Hellpkz command: shop 3
+Hellpkz command: shop 4
+Hellpkz command: shop 5
+Hellpkz command: shop 6
+Hellpkz command: shop 5
+Hellpkz command: shop 5
+Hellpkz command: shop 5
+Hellpkz command: shop 5
+Hellpkz command: shop 5
+Hellpkz command: shop 3
+Hellpkz command: shop 4
+Hellpkz command: shop 5
+Hellpkz command: shop 6
+Hellpkz command: shop 7
+Hellpkz command: shop 6
+Hellpkz command: shop 7
+Hellpkz command: shop 15
+Hellpkz command: shop 5
+Hellpkz command: shop 6
+Hellpkz command: shop 7
+Hellpkz command: shop 8
+Hellpkz command: shop 12
+Hellpkz command: shop 15
+Hellpkz command: shop 15
+Hellpkz command: shop 16
+Hellpkz command: shop 17
+Hellpkz command: shop 15
+Hellpkz command: shop 17
+Hellpkz command: pickup 3122
+Hellpkz command: pickup 3122 1
+Hellpkz command: bank
+Hellpkz command: pickup 3122 1
+Hellpkz command: pickup 6809 1
+Hellpkz command: pickup 4153 1
+Hellpkz command: pickup 3881 1
+Hellpkz command: pickup 3882 1
+Hellpkz command: pickup 4155 1
+Hellpkz command: char
+Hellpkz command: interface 3559
+Hellpkz command: char
+Hellpkz command: interface 3559
+Hellpkz command: npc 599
+Hellpkz command: shop 3
+Hellpkz command: shop 5
+Hellpkz command: shop 6
+Hellpkz command: shop 4
+Hellpkz command: pickup 7453 1
+Hellpkz command: pickup 7462 1
+Hellpkz command: pickup 7454 1
+Hellpkz command: pickup 7455
+Hellpkz command: pickup 7456 1
+Hellpkz command: pickup 7453 1
+Hellpkz command: pickup 7454 1
+Hellpkz command: pickup 7456 1
+Hellpkz command: pickup 7455 1
+Hellpkz command: pickup 7455 1
+Hellpkz command: pickup 1323 1
+Hellpkz command: pickup 4121 1
+Hellpkz command: pickup 4123 1
+Hellpkz command: pickup 4310 1
+Hellpkz command: shop 23
+Hellpkz command: shop 26
+Hellpkz command: pickup 3028 1
+Hellpkz command: pickup 3098 1
+Hellpkz command: bank
+Hellpkz command: shop 3
+Hellpkz command: shop 2
+Hellpkz command: shop 4
+Hellpkz command: shop 4
+Hellpkz command: pickup 6979 1
+Hellpkz command: pickup 6980 1
+Hellpkz command: pickup 6981 1
+Hellpkz command: pickup 6983 1
+Hellpkz command: object 2109
+Hellpkz command: bank
+Hellpkz command: shop 20
+Hellpkz command: shop 22
+Hellpkz command: shop 23
+Hellpkz command: shop 26
+Hellpkz command: shop 25
+Hellpkz command: shop 34
+Hellpkz command: shop 34
+Hellpkz command: shop 38
+Hellpkz command: pickup 7668 1
+Hellpkz command: pickup 4297 1
+Hellpkz command: pickup 4298 1
+Hellpkz command: pickup 4299 1
+Hellpkz command: pickup 4300 1
+Hellpkz command: pickup 4302 1
+Hellpkz command: pickup 4304 1
+Hellpkz command: pickup 4306 1
+Hellpkz command: shop 38
+Hellpkz command: pickup 6070 1
+Hellpkz command: pickup 3790 1
+Hellpkz command: pickup 3759 1
+Hellpkz command: pickup 3761 1
+Hellpkz command: pickup 3763 1
+Hellpkz command: pickup 3765 1
+Hellpkz command: pickup 3767 1
+Hellpkz command: pickup 3789 1
+Hellpkz command: shop 38
+Hellpkz command: pickup 2902 1
+Hellpkz command: pickup 2903
+Hellpkz command: pickup 1580 1
+Hellpkz command: pickup 2912 1
+Hellpkz command: pickup 2922 1
+Hellpkz command: shop 38
+Hellpkz command: pickup 2932 1
+Hellpkz command: pickup 2942 1
+Hellpkz command: shop 38
+Hellpkz command: pickup 3799 1
+Hellpkz command: pickup 4308 1
+Hellpkz command: pickup 43101
+Hellpkz command: pickup 4310 1
+Hellpkz command: pickup 6629 1
+Hellpkz command: pickup 6131 1
+Hellpkz command: pickup 6133 1
+Hellpkz command: pickup 6135 1
+Hellpkz command: pickup 6145 1
+Hellpkz command: pickup 6149 1
+Hellpkz command: pickup 6143 1
+Hellpkz command: pickup 626 1
+Hellpkz command: pickup 628 1
+Hellpkz command: pickup 630 1
+Hellpkz command: pickup 632 1
+Hellpkz command: pickup 634 1
+Hellpkz command: pickup 636 1
+Hellpkz command: pickup 626 1
+Hellpkz command: bank
+Hellpkz command: pickup 638 1
+Hellpkz command: pickup 640 1
+Hellpkz command: pickup 642 1
+Hellpkz command: pickup 644 1
+Hellpkz command: pickup 634 1
+Hellpkz command: pickup 646 1
+Hellpkz command: pickup 648 1
+Hellpkz command: pickup 650 1
+Hellpkz command: pickup 652 1
+Hellpkz command: pickup 654 1
+Hellpkz command: pickup 1050 1
+Hellpkz command: pickup 656 1
+Hellpkz command: pickup 658 1
+Hellpkz command: pickup 660 1
+Hellpkz command: pickup 662 1
+Hellpkz command: pickup 664 1
+Hellpkz command: pickup 666 1
+Hellpkz command: pickup 668 1
+Hellpkz command: pickup 616 1
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: pickup 1837 1
+Hellpkz command: pickup 6750 1
+Hellpkz command: pickup 1833 1
+Hellpkz command: pickup 1835 1
+Hellpkz command: shop 38
+Hellpkz command: shop 38
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: shop 39
+Hellpkz command: pickup 553 1000
+Hellpkz command: shop 39
+Hellpkz command: shop 39
+Hellpkz command: pickup 16053 1
+Hellpkz command: shop 19
+Hellpkz command: shop 19
+Hellpkz command: mypos
+Hellpkz command: npc 682
+Hellpkz command: npc 526
+Hellpkz command: npc 527
+Hellpkz command: npc 580
+Hellpkz command: npc 2538
+Hellpkz command: npc 577
+Hellpkz command: npc 531
+Hellpkz command: npc 594
+Hellpkz command: npc 557
+Hellpkz command: npc 559
+Hellpkz command: npc 559
+Hellpkz command: mypos
+Hellpkz command: npc 1526
+Hellpkz command: npc 519
+Hellpkz command: npc 804
+Hellpkz command: npc 542
+Hellpkz command: npc 559
+Hellpkz command: npc 1597
+Hellpkz command: home
+Hellpkz command: npc 557
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: home
+Hellpkz command: mypos
+Hellpkz command: home
+Hellpkz command: pickup 4587 1
+Hellpkz command: bank
+Hellpkz command: pickup 14156 1
+Hellpkz command: pickup 14153 1
+Hellpkz command: pickup 14148 1
+Hellpkz command: pickup 13011 1
+Hellpkz command: add models
+Hellpkz command: add model
+Hellpkz command: add model 123456
+Hellpkz command: add models 12345
+Hellpkz command: pickup 11323 1
+Hellpkz command: add model 13062
+Hellpkz command: add models
+Hellpkz command: add models
+Hellpkz command: add models
+Hellpkz command: add models
+Hellpkz command: add model 13061
+Hellpkz command: add models
+Hellpkz command: add models
+Hellpkz command: pickup 13012 1
+Hellpkz command: newhpbar
+Hellpkz command: newbar
+Hellpkz command: newbar
+Hellpkz command: newbar
+Hellpkz command: home
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: emote 1110
+Hellpkz command: emote 3063
+Hellpkz command: emote 3062
+Hellpkz command: newbar
+Hellpkz command: newbar
+Hellpkz command: newbar
+Hellpkz command: newbar
+Hellpkz command: home
+Hellpkz command: newbar
+Hellpkz command: newbar
+Hellpkz command: oldbar
+Hellpkz command: newbar
+Hellpkz command: newbar
+Hellpkz command: pickup 13004 1
+Hellpkz command: pickup 14154 1
+Hellpkz command: pickup 14153 1
+Hellpkz command: bank
+Hellpkz command: pickup 14153 1
+Hellpkz command: pickup 14152 1
+Hellpkz command: pickup 14151 1
+Hellpkz command: pickup 14150 1
+Hellpkz command: pickup 14140 1
+Hellpkz command: pickup 13014 1
+Hellpkz command: pickup 13013 1
+Hellpkz command: pickup 13012 1
+Hellpkz command: pickup 13011 1
+Hellpkz command: pickup 13010 1
+Hellpkz command: pickup 13009 1
+Hellpkz command: pickup 13010 1
+Hellpkz command: pickup 13008 1
+Hellpkz command: pickup 13007 1
+Hellpkz command: pickup 13008 1
+Hellpkz command: pickup 13007 1
+Hellpkz command: bank
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: pickup 13654 1
+Hellpkz command: pickup 1887 1
+Hellpkz command: pickup 8100 1
+Hellpkz command: pickup 13021 1
+Hellpkz command: pickup 3883 1
+Hellpkz command: pickup 8123 1
+Hellpkz command: pickup 7609 1
+Hellpkz command: bank
+Hellpkz command: home
+Hellpkz command: pickup 13944 1
+Hellpkz command: pickup 7791 1
+Hellpkz command: pickup 7792 1
+Hellpkz command: pickup 7793 1
+Hellpkz command: pickup 7810 1
+Hellpkz command: pickup 8400 1
+Hellpkz command: pickup 7900 1
+Hellpkz command: pickup 7200 1
+Hellpkz command: pickup 7804 1
+Hellpkz command: pickup 7805 1
+Hellpkz command: pickup 7806 1
+Hellpkz command: pickup 7807 1
+Hellpkz command: pickup 7808 1
+Hellpkz command: pickup 7809 1
+Hellpkz command: pickup 1700 1
+Hellpkz command: pickup 4566 1
+Hellpkz command: emote 1835
+Hellpkz command: donatoradd damn
+Hellpkz command: ban hell
+Hellpkz command: mute hell
+Hellpkz command: unmute hell
+Hellpkz command: tz
+Hellpkz command: lunar
+Hellpkz command: ancient
+Hellpkz command: normal
+Hellpkz command: normals
+Hellpkz command: normals
+Hellpkz command: prayer
+Hellpkz command: duel
+Hellpkz command: people
+Hellpkz command: update 10
+Hellpkz command: emote 899
+Hellpkz command: hail
+Hellpkz command: hail
+Hellpkz command: emote 890
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: emote 831
+Hellpkz command: ccmake hell pkers
+Hellpkz command: ccrename hellz
+Hellpkz command: cm hi
+Hellpkz command: cm hi
+Hellpkz command: cm lol
+Hellpkz command: whatsnew
+Hellpkz command: info
+Hellpkz command: commands
+Hellpkz command: test
+Hellpkz command: vent 2021
+Hellpkz command: npc 51
+Hellpkz command: vent 51
+Hellpkz command: vent kill me 
+Hellpkz command: vent loooooooooooooooooooool
+Hellpkz command: vent npc reset in 1 minute!
+Hellpkz command: vent npc reset in one minute!
+Hellpkz command: puzzle
+Hellpkz command: jad
+Hellpkz command: jad
+Hellpkz command: mypos
+Hellpkz command: tele 2480 5170
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: jad
+Hellpkz command: jad
+Hellpkz command: mine
+Hellpkz command: pub
+Hellpkz command: shop 12
+Hellpkz command: train
+Hellpkz command: assault
+Hellpkz command: agility
+Hellpkz command: proagility
+Hellpkz command: war
+Hellpkz command: home
+Hellpkz command: tele 3400 3400
+Hellpkz command: home
+Hellpkz command: pk
+Hellpkz command: skillz
+Hellpkz command: skills
+Hellpkz command: pure
+Hellpkz command: pure
+Hellpkz command: pure
+Hellpkz command: pure
+Hellpkz command: pure
+Hellpkz command: pure
+Hellpkz command: pure
+Hellpkz command: pure
+Hellpkz command: pure
+Hellpkz command: pure
+Hellpkz command: pure
+Hellpkz command: pure
+Hellpkz command: pure
+Hellpkz command: pure
+Hellpkz command: banuser hell2
+Hellpkz command: hail
+Hellpkz command: jail hell1
+Hellpkz command: tele 2933 3285
+Hellpkz command: mypos
+Hellpkz command: tele 2933 3289
+Hellpkz command: home
+Hellpkz command: pickup 36
+Hellpkz command: pickup 36 10
+Hellpkz command: pickup 4999 1
+Hellpkz command: pickup 995 1000
+Hellpkz command: pickup 4999 1
+Hellpkz command: pickup 4999 1
+Hellpkz command: emote 2699
+Hellpkz command: vent ouch!
+Hellpkz command: vent hellpkz will be our new admin!!!!!!!!!!!!!!!!
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: ancient
+Hellpkz command: ancient
+Hellpkz command: interface 3559
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: train
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: home
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: interface 16460
+Hellpkz command: char
+Hellpkz command: interface 3559
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: chare
+Hellpkz command: interface 16460
+Hellpkz command: interface 1644
+Hellpkz command: interface 16461
+Hellpkz command: runes
+Hellpkz command: bnak
+Hellpkz command: bank
+Hellpkz command: home
+Hellpkz command: pickup 4716 1
+Hellpkz command: pickup 4718 1
+Hellpkz command: pickup 4720 1
+Hellpkz command: pickup 4722 1
+Hellpkz command: barrows
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: pickup 526 10000
+Hellpkz command: pickup 256 11111
+Hellpkz command: shop 10
+Hellpkz command: shop 3
+Hellpkz command: shop 4
+Hellpkz command: shop 5
+Hellpkz command: shop 1
+Hellpkz command: shop 2
+Hellpkz command: shop 2
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: bnak
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: special
+Hellpkz command: char
+Hellpkz command: bank
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: interface 16463
+Hellpkz command: interface 3650
+Hellpkz command: interface 16456
+Hellpkz command: male
+Hellpkz command: zx 1
+Hellpkz command: zx 0
+Hellpkz command: zx 1
+Hellpkz command: zx 2
+Hellpkz command: zx 3
+Hellpkz command: zx 4
+Hellpkz command: zx 5
+Hellpkz command: zx 6
+Hellpkz command: zx 7
+Hellpkz command: zx 8
+Hellpkz command: zx 9
+Hellpkz command: zx 10
+Hellpkz command: zx 0
+Hellpkz command: zx 2
+Hellpkz command: Zx 1
+Hellpkz command: zx 0
+Hellpkz command: zx 1
+Hellpkz command: zx 2
+Hellpkz command: male
+Hellpkz command: female
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: zx 14
+Hellpkz command: zx 17
+Hellpkz command: mzle
+Hellpkz command: mzle
+Hellpkz command: male
+Hellpkz command: zx 1
+Hellpkz command: male
+Hellpkz command: zx 14
+Hellpkz command: male
+Hellpkz command: zx 1
+Hellpkz command: zx 4
+Hellpkz command: zx 15
+Hellpkz command: zx 7
+Hellpkz command: zx 0
+Hellpkz command: zx 3
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: zx 0
+Hellpkz command: zx 1
+Hellpkz command: zx 2
+Hellpkz command: male
+Hellpkz command: Zx 1
+Hellpkz command: zx 26
+Hellpkz command: zx 27
+Hellpkz command: zx 28
+Hellpkz command: zx 30
+Hellpkz command: zx26
+Hellpkz command: zx 26
+Hellpkz command: male
+Hellpkz command: bank
+Hellpkz command: male
+Hellpkz command: Zx 1
+Hellpkz command: Zx 18
+Hellpkz command: zx 15
+Hellpkz command: zx 2
+Hellpkz command: zx 3
+Hellpkz command: zx 4
+Hellpkz command: zx 5
+Hellpkz command: zx 6
+Hellpkz command: zx 7
+Hellpkz command: zx 8
+Hellpkz command: zx 9
+Hellpkz command: zx 10
+Hellpkz command: male
+Hellpkz command: zx 10
+Hellpkz command: zx 11
+Hellpkz command: zx 12
+Hellpkz command: zx 13
+Hellpkz command: zx 14
+Hellpkz command: zx 15
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: zx 15
+Hellpkz command: zx 16
+Hellpkz command: zx 17
+Hellpkz command: zx 18
+Hellpkz command: zx 19
+Hellpkz command: zx 20
+Hellpkz command: zx 21
+Hellpkz command: zx 22
+Hellpkz command: male
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: char
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: bank
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: pickup 557 2147000000
+Hellpkz command: pickup 553 2147000000
+Hellpkz command: pickup 560 2147000000
+Hellpkz command: spec 10000
+Hellpkz command: bank
+Hellpkz command: home
+Hellpkz command: spec 25
+Hellpkz command: spec 100
+Hellpkz command: home
+Hellpkz command: spec 100
+I got 2 moms command: home
+I got 2 moms command: home
+I got 2 moms command: home
+Hellpkz command: spec 100
+I got 2 moms command: spec 100
+I got 2 moms command: home
+I got 2 moms command: home
+I got 2 moms command: home
+Hellpkz command: home
+Hellpkz command: spec 100
+I got 2 moms command: home
+Hellpkz command: spec 100
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: spec 100
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+I got 2 moms command: spec 100
+Hellpkz command: spec 100
+I got 2 moms command: home
+Hellpkz command: spec 100
+I got 2 moms command: spec 100
+I got 2 moms command: spec 100
+I got 2 moms command: home
+I got 2 moms command: home
+Hellpkz command: home
+I got 2 moms command: home
+Hellpkz command: spec 100
+I got 2 moms command: home
+Hellpkz command: home
+Hellpkz command: spec 100
+Hellpkz command: home
+I got 2 moms command: spec 100
+Hellpkz command: home
+Hellpkz command: spec 100
+Hellpkz command: home
+Hellpkz command: spec 100
+I got 2 moms command: Spec 100
+I got 2 moms command: home
+Hellpkz command: spec 100
+Hellpkz command: home
+Hellpkz command: spec 100
+Hellpkz command: home
+I got 2 moms command: spec 100
+Hellpkz command: spec 100
+Hellpkz command: spec 100
+Hellpkz command: home
+I got 2 moms command: spec 100
+I got 2 moms command: home
+Hellpkz command: home
+I got 2 moms command: home
+I got 2 moms command: home
+Hellpkz command: home
+Hellpkz command: home
+I got 2 moms command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: homew
+Hellpkz command: home
+I got 2 moms command: spec 100
+Hellpkz command: spec 100
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Dont cry command: home
+Dont cry command: pickup 553 2147000000
+Dont cry command: pickup 557 1000000
+D4ny command: spec 100
+Dont cry command: spec 100
+Dont cry command: home
+D4ny command: yell camelo
+Dont cry command: home
+D4ny command: home
+Dont cry command: home
+D4ny command: runes
+Dont cry command: spec 100
+Dont cry command: home
+Dont cry command: home
+D4ny command: yell ai a merda
+Dont cry command: home
+D4ny command: home
+D4ny command: pickup 553 4000
+D4ny command: pickup 557 10000
+D4ny command: pickup 560 2000
+Dont cry command: home
+D4ny command: home
+Dont cry command: home
+Dont cry command: home
+Dont cry command: spec 100
+D4ny command: spec 100
+Dont cry command: home
+D4ny command: home
+Dont cry command: spec 100
+Dont cry command: home
+Dont cry command: home
+D4ny command: bank
+Dont cry command: home
+Dont cry command: home
+Dont cry command: bank
+D4ny command: spec 100
+Dont cry command: spec 100
+Dont cry command: spec 10000
+Dont cry command: home
+D4ny command: home
+Dont cry command: home
+Dont cry command: bank
+D4ny command: bank
+D4ny command: bank
+D4ny command: home
+Dont cry command: pickup 175 1
+D4ny command: bank
+D4ny command: home
+Dont cry command: bank
+Dont cry command: bank
+D4ny command: bank
+Dont cry command: yell desculpas
+D4ny command: home
+Dont cry command: bank
+D4ny command: spec 100
+D4ny command: yell hahaha
+Dont cry command: home
+D4ny command: bank
+D4ny command: home
+D4ny command: bank
+Dont cry command: bank
+D4ny command: home
+D4ny command: bank
+D4ny command: home
+Dont cry command: bank
+D4ny command: spec 100
+D4ny command: home
+Dont cry command: xteleto d4ny
+D4ny command: bank
+D4ny command: bank
+D4ny command: bank
+D4ny command: xteleto dont cry
+D4ny command: spec 100
+Dont cry command: xteleto d4ny
+Dont cry command: bank
+Dont cry command: bank
+D4ny command: bank
+D4ny command: xteleto dont cry
+Dont cry command: bank
+D4ny command: bank
+D4ny command: home
+Dont cry command: bank
+Dont cry command: bank
+Dont cry command: xteleto d4ny
+D4ny command: bank
+Dont cry command: pickup 390 10000000
+Dont cry command: pickup 392 100000
+D4ny command: pickup 392 999999999
+D4ny command: bank
+Dont cry command: pickup 6564 1
+D4ny command: pickup 6564 1
+Dont cry command: nao
+Dont cry command: pickup 6575 1
+D4ny command: pickup 6575 1
+D4ny command: bank
+Dont cry command: pickup 995 100000
+Dont cry command: pickup 892 100000
+Dont cry command: bank
+Dont cry command: pickup 2245 100000
+Dont cry command: pickup 170 1000
+Dont cry command: bank
+D4ny command: bank
+Dont cry command: xteleto d4ny
+Dont cry command: bank
+D4ny command: bank
+Dont cry command: bank
+D4ny command: xteleto dont cry
+D4ny command: spec 100
+D4ny command: xteleto dont cry
+D4ny command: spec 100
+D4ny command: bank
+D4ny command: spec 100
+Dont cry command: bank
+D4ny command: xteleto dont cry
+D4ny command: bank
+D4ny command: spec 100
+D4ny command: xteleto dont cry
+Dont cry command: master
+D4ny command: master
+Dont cry command: bank
+D4ny command: copy dont cry
+Dont cry command: male
+D4ny command: home
+D4ny command: bank
+Dont cry command: home
+Dont cry command: pickup 995 2147000000
+D4ny command: barrows
+D4ny command: home
+D4ny command: pickup 335 999999999
+Dont cry command: bank
+Dont cry command: bank
+Dont cry command: male
+D4ny command: pickup 995 999999999
+Dont cry command: bank
+D4ny command: bank
+D4ny command: bank
+Dont cry command: pickup 6570 1
+Dont cry command: pickup 2904 1
+Dont cry command: pickup 4151 1
+D4ny command: pickup 2904 1
+D4ny command: pickup 6570 1
+Dont cry command: pickup 1377 1
+Dont cry command: bank
+D4ny command: pickup 4151 1
+D4ny command: bank
+Dont cry command: bank
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+D4ny command: npc 2026
+D4ny command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: bank
+Dont cry command: bank
+D4ny command: pickup 4046 999999999
+D4ny command: bank
+Dont cry command: pickup 4718 1
+D4ny command: bank
+Dont cry command: pickup 6570 1
+Dont cry command: pickup 447 1000
+Dont cry command: pickup 446 100
+Dont cry command: pickup 4047 1000
+Dont cry command: pickup 4046 1000
+Dont cry command: bank
+D4ny command: bank
+Dont cry command: npc 2026
+D4ny command: npc 2026
+Dont cry command: bank
+D4ny command: npc 2026
+Dont cry command: bank
+D4ny command: npc 2026
+D4ny command: bank
+Dont cry command: bank
+Dont cry command: pickup 316 100
+Dont cry command: bank
+D4ny command: npc 2026
+Dont cry command: bank
+D4ny command: xteleto dont cry
+Dont cry command: pickup 379 1
+Dont cry command: bank
+Dont cry command: bank
+Dont cry command: bank
+D4ny command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+D4ny command: NPC 2026
+D4ny command: NPV 2026
+D4ny command: NPV 2026
+D4ny command: npc 2026
+Dont cry command: npc 2026
+D4ny command: npc 2026
+Dont cry command: npc 2026
+D4ny command: npc 2026
+D4ny command: npc 2026
+Dont cry command: max
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+D4ny command: bank
+Dont cry command: npc 2026
+D4ny command: npc 2026
+D4ny command: npc 2026
+D4ny command: npc 2026
+D4ny command: npc 2026
+Dont cry command: npc 2026
+D4ny command: npc 2026
+D4ny command: npc 2026
+D4ny command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: pickup 7461 1
+Dont cry command: pickup 7462 1
+D4ny command: pickup 7462 1
+Dont cry command: pickup 1107 1
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: npc 2026
+Dont cry command: xteleto d4ny
+Dont cry command: pickup 1077 1
+Dont cry command: pickup 773 1
+Dont cry command: pickup 35 1
+Dont cry command: pickup 2621 1
+Dont cry command: npc 2027
+Dont cry command: bank
+Dont cry command: pickup 7621 1
+Dont cry command: npc 2025
+Dont cry command: npc 52
+Dont cry command: npc 50
+Dont cry command: home
+Dont cry command: tele 2950 3512
+Dont cry command: tele 2980 3512
+Dont cry command: home
+Dont cry command: mypos
+Dont cry command: home
+Hellpkz command: spec 10000
+Hellpkz command: mypos
+Hellpkz command: home
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: edge
+Hellpkz command: home
+Hellpkz command: mypos
+Hellpkz command: bank
+Hellpkz command: pickup 7611
+Hellpkz command: pickup 7611 1
+Hellpkz command: bank
+Hellpkz command: pickup 8002 1
+Hellpkz command: pickup 6737 1
+Hellpkz command: bank
+Hellpkz command: home
+Hellpkz command: my pos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: pickup 430 1
+Hellpkz command: pickup 3101 1
+Hellpkz command: pickup 4151 1
+Hellpkz command: pickup 6737 1
+Dont die plz command: pickup 995 10000000
+Dont die plz command: yell im gonna try jad =)
+Dont die plz command: yell i was changing prayers but he meleed
+Dont die plz command: bank
+Dont die plz command: pickup 892 1000
+Dont die plz command: pickup 861 1
+Dont die plz command: yell i nearly killed him, you must to italy rock and prayer
+Dont die plz command: yell hmm thieving then pking
+Dont die plz command: yell fucking healers distracted me and got powned 
+Dont die plz command: yell edge? mb?
+Dont die plz command: yell fuck fuck fuck i was really near
+Dont die plz command: yell i killed jad!!!!!!!!!!!!!!!!!!!!!!!!
+Hellpkz command: tele 3000 3000
+Hellpkz command: ancient
+Hellpkz command: ancient
+Hellpkz command: lunar
+Hellpkz command: lunar
+Hellpkz command: yell its done, but im still editing client and theres no tele yet :S
+Hellpkz command: yell editing server *
+Hellpkz command: yell 5 mins? =P
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: yell yes
+Hellpkz command: yell what you mean?
+Hellpkz command: tele 3347 3667
+Hellpkz command: tele 2540 4716
+Hellpkz command: tele 2998 3909
+Hellpkz command: tele 3349 3672
+Hellpkz command: tele 3436 3572
+Hellpkz command: mypos
+Hellpkz command: update 20
+Hellpkz command: ancients
+Hellpkz command: tele 3200 3200
+Hellpkz command: message you can go slayer tower using slayer tele in ancientz
+Hellpkz command: ancientz
+Hellpkz command: yell the stall is edge is the best to train get money, although i will move
+Hellpkz command: yell stall all to ardougne
+Hellpkz command: yell yes.. use ancient teleports
+Hellpkz command: yell slayer one :)
+Hellpkz command: pickup 4827 1
+Hellpkz command: shop 1
+Hellpkz command: shop 2
+Hellpkz command: shop 3
+Hellpkz command: shop 4
+Hellpkz command: shop 5
+Hellpkz command: shop 6
+Hellpkz command: shop 7
+Hellpkz command: shop 8
+Hellpkz command: shop 9
+Hellpkz command: shop 10
+Hellpkz command: shop 11
+Hellpkz command: npc 2264
+Hellpkz command: npc 2265
+Hellpkz command: xteleto ass
+Hellpkz command: teleto ass
+Hellpkz command: xteleto ass
+Dont die plz command: pickup 995 200000000
+Dont die plz command: pickup 995 10000000
+Dont die plz command: yell 38m
+Dont die plz command: yell d bow 200m
+Dont die plz command: yell you have d bows?? hoyl fuck
+Dont die plz command: yell slayer lvl?
+Dont die plz command: yell nice
+Dont die plz command: yell you getting xp killing nechryaels?
+Dont die plz command: yell lol
+Dont die plz command: players
+Dont die plz command: yell anyone wants to fight me? risking 100m
+Dont die plz command: spec 1000
+Dont die plz command: npc 2028
+Dont die plz command: tele 3200 3200
+Dont die plz command: npc 2883
+Dont die plz command: pickup 4710 1
+Dont die plz command: pickup 4710 1
+Dont die plz command: npc 2883
+Dont die plz command: npc 1116
+Dont die plz command: npc 1267
+Dont die plz command: npc 1264
+Dont die plz command: home
+Dont die plz command: players
+Dont die plz command: players
+Dont die plz command: home
+Dont die plz command: pickup 8888 1
+Dont die plz command: pickup 8100 1
+Dont die plz command: npc 82
+Hellpkz command: pickup 7158 1
+Hellpkz command: pickup 8100
+Hellpkz command: pickup 8100 1
+Hellpkz command: pickup 1313 1
+Hellpkz command: pickup 1315 1
+Hellpkz command: pickup 4718 1
+Hellpkz command: pickup 1319 1
+Hellpkz command: emote 2561
+Hellpkz command: emote 2561
+Hellpkz command: emote 2561
+Hellpkz command: emote 2561
+Hellpkz command: emote 2661
+Hellpkz command: emote 2561
+Hellpkz command: emote 2561
+Hellpkz command: emote 2561
+Hellpkz command: emote 2699
+Hellpkz command: emote 2065
+Hellpkz command: emote -1
+Hellpkz command: emote 1
+Hellpkz command: emote 1462
+Hellpkz command: pickup 4084 1
+Hellpkz command: male
+Hellpkz command: pickup 4513 1
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: emote 1660
+Hellpkz command: emote 1660
+Hellpkz command: emote 1661
+Hellpkz command: emote 1662
+Hellpkz command: emote 1663
+Hellpkz command: emote 1664
+Hellpkz command: emote 1665
+Hellpkz command: emote 1666
+Hellpkz command: emote 1666
+Hellpkz command: emote 2064
+Hellpkz command: pickup 6818 1
+Hellpkz command: yell moved to ardougne
+Hellpkz command: yell tele ardougne?
+Hellpkz command: pckup 4587 1
+Hellpkz command: pickup 4587 1
+Hellpkz command: spec 25
+Hellpkz command: spec 75
+Hellpkz command: pickup 4153 1
+Hellpkz command: male
+Hellpkz command: npc 1
+Hellpkz command: message srry about the restarts but im fixing many things and need to restar :
+Hellpkz command: bank
+Hellpkz command: object 2470
+Hellpkz command: spec 10000
+Hellpkz command: npc 2026
+Hellpkz command: home
+Hellpkz command: tele 2716 3472
+Hellpkz command: npc 5
+Hellpkz command: bank
+Hellpkz command: home
+Hellpkz command: pickup 773 1
+Hellpkz command: update 10
+Hellpkz command: message srry about the restarts.. :s im doing updates
+Dont die plz command: pickup 995 2147000000
+Dont die plz command: pickup 955 2147000000
+Dont die plz command: pickup 995 2147000000
+Dont die plz command: empty
+Dont die plz command: pickup 995 2147000000
+Dont die plz command: pickup 995 2147000000
+Dont die plz command: pickup 995 2147000000
+Dont die plz command: players
+Dont die plz command: ancient
+Dont die plz command: empty
+Dont die plz command: empty
+Dont die plz command: pickup 592 1
+Dont die plz command: spec 10000
+Dont die plz command: pickup 2426 1
+Dont die plz command: bank
+Dont die plz command: yell well i think he just fixed dharok
+Dont die plz command: yell 11 minutes fighting ahrims and no drop =(
+Dont die plz command: players
+Dont die plz command: resetdrops
+Dont die plz command: yell resetdrops works =)
+Dont die plz command: players
+Dont die plz command: players
+Dont die plz command: npc 1648
+Dont die plz command: npc 1657
+Dont die plz command: npc 1646
+Dont die plz command: npc 1643
+Dont die plz command: ancients
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: npc 1633
+Dont die plz command: npc 1636
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: Tele::mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: npc 1615
+Dont die plz command: npc 1612
+Dont die plz command: npc 1657
+Dont die plz command: npc 1657
+Dont die plz command: ancients
+Dont die plz command: ancients
+Dont die plz command: npc 1618
+Dont die plz command: pickup 73 1
+Dont die plz command: pickup 773 1
+Dont die plz command: npc 2783
+Dont die plz command: master
+Dont die plz command: pivkup 1249 1
+Dont die plz command: pickup 1249 1
+Hellpkz command: pickup 1249 1
+Hellpkz command: bank
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: pickup 5730 1
+Hellpkz command: pickup 5728 1
+Hellpkz command: pickup 1247 1
+Hellpkz command: bank
+Hellpkz command: npc 1
+Hellpkz command: empty
+Hellpkz command: pickup 7336 1
+Hellpkz command: pickup 1303 1
+Hellpkz command: pickup 1213 1
+Hellpkz command: pickup 1347 1
+Hellpkz command: pickup 1113 1
+Dont die plz command: players
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: tele 3415 3541
+Dont die plz command: tele 3420 3541
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: mypos
+Dont die plz command: tele 3445 3558
+Dont die plz command: ancients
+Dont die plz command: home
+Dont die plz command: home
+Hellpkz command: bank
+Hellpkz command: home
+Hellpkz command: emote 1660
+Hellpkz command: emote 1200
+Hellpkz command: emote 1669
+Hellpkz command: emote 1680
+Hellpkz command: emote 1663
+Hellpkz command: male
+Hellpkz command: mle
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: pickup 7778 1
+Hellpkz command: pickup 7899 1
+Hellpkz command: pickup 7778 1
+Hellpkz command: pickup 7899 1
+Hellpkz command: pickup 8032 1
+Hellpkz command: pickup 16643 1
+Hellpkz command: pickup 13999 1
+Hellpkz command: pickup 13643 1
+Hellpkz command: pickp 13600 1
+Hellpkz command: pickup 13600 1
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: pickup 16143 1
+Hellpkz command: pickup 13043 1
+Hellpkz command: pickup 16650 1
+Hellpkz command: pickup 13650 1
+Hellpkz command: pickup 13643 1
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: pickup 7677 1
+Hellpkz command: pickup 4724 1
+Hellpkz command: pickup 3751 1
+Hellpkz command: bank
+Hellpkz command: pickup 14520 1
+Hellpkz command: interface 17011
+Hellpkz command: interface 17014
+Hellpkz command: interface 12142
+Hellpkz command: interface 18405
+Hellpkz command: interface 17012
+Hellpkz command: interface 18025
+Hellpkz command: inteface 17200
+Hellpkz command: interface 16500
+Hellpkz command: interface 16050
+Hellpkz command: interface 16050
+Hellpkz command: interface 16050
+Hellpkz command: interface 16050
+Hellpkz command: interface 16050
+Hellpkz command: interface 16050
+Hellpkz command: interface 16050
+Hellpkz command: interface 16050
+Hellpkz command: interface 16050
+Hellpkz command: interface 0
+Hellpkz command: interface 1
+Hellpkz command: pickup 14518 1
+Hellpkz command: bank
+Hellpkz command: interface 16050
+Hellpkz command: interface 16050
+Hellpkz command: interface 16050
+Hellpkz command: ancient
+Hellpkz command: interface 12885
+Hellpkz command: interface 12855
+Hellpkz command: ancient
+Hellpkz command: bank
+Hellpkz command: home
+Hellpkz command: ancients
+Hellpkz command: ancients
+Hellpkz command: ancients
+Hellpkz command: ancient
+Hellpkz command: ancients
+Hellpkz command: interface 1781
+Hellpkz command: interface 1782
+Hellpkz command: interface 12855
+Hellpkz command: interface 1152
+Hellpkz command: train
+Hellpkz command: interface 16050
+Hellpkz command: char
+Hellpkz command: ancients
+Hellpkz command: interface 16050
+Hellpkz command: ancients
+Hellpkz command: normal
+Hellpkz command: normals
+Hellpkz command: spec 100
+Hellpkz command: interface 16050
+Hellpkz command: hme
+Hellpkz command: home
+Hellpkz command: interface 16050
+Hellpkz command: interface 16050
+Hellpkz command: interface 253
+Hellpkz command: interface 6960
+Hellpkz command: bank
+Hellpkz command: pickup 2677 1
+Hellpkz command: pickup 2678 1
+Hellpkz command: pickup 2679 1
+Hellpkz command: pickup 2680 1
+Hellpkz command: pickup 2681 1
+Hellpkz command: pickup 2682 1
+Hellpkz command: pickup 2683 1
+Hellpkz command: pickup 2684 1
+Hellpkz command: pickup 2687 1
+Hellpkz command: pickup 2690 1
+Hellpkz command: pickup 2691 1
+Hellpkz command: pickup 2693 1
+Hellpkz command: pickup 2696 1
+Hellpkz command: pickup 2699 1
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: pickup 405 1
+Hellpkz command: pickup 406 1
+Hellpkz command: pickup 2714 1
+Hellpkz command: pickup 2856 1
+Hellpkz command: pickup 2830 1
+Hellpkz command: pickup 2831 1000
+Hellpkz command: pickup 2830 10
+Hellpkz command: pickup 2830 1
+Hellpkz command: pickup 2830 1
+Hellpkz command: pickup 2830 1
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: bank
+Hellpkz command: empty
+Hellpkz command: bank
+Hellpkz command: empty
+Hellpkz command: bank
+Hellpkz command: empty
+Hellpkz command: bank
+Hellpkz command: empty
+Hellpkz command: bank
+Hellpkz command: pickup 2857 1
+Hellpkz command: pickup 2858 1
+Hellpkz command: pickup 2830 1
+Hellpkz command: empty
+Hellpkz command: bank
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: bank
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: empty
+Hellpkz command: pickup 13015 1
+Hellpkz command: pickup 13018 1
+Hellpkz command: pickup 1040 1
+Hellpkz command: pickup 13006 1
+Hellpkz command: pickup 13005
+Hellpkz command: pickup 13005 1
+Hellpkz command: pickup 13004 1
+Hellpkz command: pickup 13003 1
+Hellpkz command: pickup 13002 1
+Hellpkz command: pickup 13001 1
+Hellpkz command: pickup 13000 1
+Hellpkz command: pickup 14522 1
+Hellpkz command: bank
+Hellpkz command: pickup 14521 1
+Hellpkz command: pickup 14517 1
+Hellpkz command: pickup 14518 1
+Hellpkz command: pickup 14519 1
+Hellpkz command: pickup 2185 1
+Hellpkz command: pickup 1700 1
+Hellpkz command: pickup 1889 1
+Hellpkz command: pickup 13654 1
+Hellpkz command: pickup 8004
+Hellpkz command: pickup 8004 1
+Hellpkz command: pickup 8124 1
+Hellpkz command: pickup 837 1
+Hellpkz command: pickup 8032 1
+Hellpkz command: pickup 7778 1
+Hellpkz command: pickup 4363 1
+Hellpkz command: bank
+Hellpkz command: pickup 3869 1
+Hellpkz command: pickup 3870 1
+Hellpkz command: pickup 3871 1
+Hellpkz command: pickup 3872 1
+Hellpkz command: pickup 13665 1
+Hellpkz command: pickup 14498 1
+Hellpkz command: pickup 75 1
+Hellpkz command: pickup 4732 1
+Hellpkz command: pickup 1169 1
+Hellpkz command: pickup 7097 1
+Hellpkz command: train
+Hellpkz command: pickup 4513 1
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: pickup 13665 1
+Hellpkz command: pickup 1383 1
+Hellpkz command: pickup 4170 1
+Hellpkz command: pickup 13647 1
+Hellpkz command: pickup 1391 1
+Hellpkz command: frame 2492
+Hellpkz command: interface 2492
+Hellpkz command: mypos
+Hellpkz command: bank
+Hellpkz command: train
+Hellpkz command: pickup 1347 1
+Hellpkz command: pickup 825 1000
+Hellpkz command: pickup 6522 1
+Hellpkz command: pickup 6522 10000000
+Hellpkz command: tele 2300 3200
+Hellpkz command: noclip
+I got 2 moms command: pickup 839 1
+I got 2 moms command: pickup 892 100000
+Hellpkz command: xteleto i got 2 moms
+I got 2 moms command: xteleto hellpkz
+I got 2 moms command: ancient
+Hellpkz command: home
+Hellpkz command: pickup 839 1
+I got 2 moms command: bank
+Hellpkz command: bank
+I got 2 moms command: bank
+Hellpkz command: banmk
+Hellpkz command: bank
+Hellpkz command: bank
+I got 2 moms command: pickup 4153 1
+I got 2 moms command: bank
+I got 2 moms command: npc 2026
+Hellpkz command: pickup 837 1
+Hellpkz command: pickup 877 1000
+Hellpkz command: pickup 882 10000
+Hellpkz command: pickup 78 1000
+Hellpkz command: pickup 879 10000
+Hellpkz command: pickup 6528 1
+Hellpkz command: bank
+I got 2 moms command: npc 2627
+I got 2 moms command: pickup 861
+I got 2 moms command: pickup 861 1
+I got 2 moms command: bank
+I got 2 moms command: pickup 2577 1
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: shop 3
+Hellpkz command: shop 7
+Hellpkz command: shop 8
+Hellpkz command: pickup 6920 1
+Hellpkz command: pickup 6922 1
+Hellpkz command: shop 7
+Hellpkz command: shop 9
+I got 2 moms command: shop 9
+I got 2 moms command: pickup 995 1000000
+I got 2 moms command: shop 8
+I got 2 moms command: home
+I got 2 moms command: xteleto hellpkz
+Hellpkz command: xteleto i got 2 moms
+Hellpkz command: gfx 1027
+Hellpkz command: emote 5865
+Hellpkz command: emote 5865
+Hellpkz command: emote 1027
+Hellpkz command: emote 5000
+Hellpkz command: gfx 1322
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: pickup 4212 1
+Hellpkz command: bank
+Hellpkz command: pickup 4214 1
+Hellpkz command: gfx 50
+Hellpkz command: gfx 50
+Hellpkz command: gfx 50
+Hellpkz command: gfx 15
+Hellpkz command: pickup 881 1
+Hellpkz command: pickup 881 10000000
+Hellpkz command: bank
+Hellpkz command: pickup 837 1
+Hellpkz command: gfx 197
+Hellpkz command: gfx 198
+Hellpkz command: gfx 196
+Hellpkz command: gfx 195
+Hellpkz command: gfx 194
+Hellpkz command: gfx 193
+Hellpkz command: gfx 199
+Hellpkz command: gfx 200
+Hellpkz command: pickup 2621 1
+Hellpkz command: pickup 4827 1
+Hellpkz command: gfx 2068
+Hellpkz command: gfx 252
+Hellpkz command: emote 2068
+Hellpkz command: pickup 5698 1
+I got 2 moms command: xteleto hellpkz
+I got 2 moms command: interface 8134
+I got 2 moms command: interface 16050
+Hellpkz command: interface 16050
+Hellpkz command: puzzle
+Hellpkz command: puzzle
+Hellpkz command: puzzle
+Hellpkz command: pixkup 385 1
+Hellpkz command: pickup 385 1
+Hellpkz command: interface 16050
+Hellpkz command: spawn 1657
+Hellpkz command: spawn 1657
+Hellpkz command: spawn 1657
+Hellpkz command: spawn 1657
+Hellpkz command: spawn 1657
+Hellpkz command: spawn 1657
+Hellpkz command: spawn 1657
+Hellpkz command: spawn 1657
+Hellpkz command: spawn 1657
+Hellpkz command: spawn 1616
+Hellpkz command: spawn 1616
+Hellpkz command: spawn 1616
+Hellpkz command: spawn 1616
+Hellpkz command: spawn 1616
+Hellpkz command: spawn 1616
+Hellpkz command: spawn 1616
+Hellpkz command: spawn 1637
+Hellpkz command: spawn 1637
+Hellpkz command: spawn 1637
+Hellpkz command: spawn 1637
+Hellpkz command: spawn 1637
+Hellpkz command: spawn 1626
+Hellpkz command: spawn 1626
+Hellpkz command: spawn 1626
+Hellpkz command: spawn 1626
+Hellpkz command: spawn 1626
+Hellpkz command: spawn 1624
+Hellpkz command: spawn 1624
+Hellpkz command: spawn 1624
+Hellpkz command: spawn 1624
+Hellpkz command: spawn 1624
+Hellpkz command: spawn 1624
+Hellpkz command: spawn 1624
+Hellpkz command: spawn 1613
+Hellpkz command: spawn 1613
+Hellpkz command: spawn 1613
+Hellpkz command: spawn 1613
+Hellpkz command: spawn 1613
+Hellpkz command: spawn 1613
+Hellpkz command: spawn 1615
+Hellpkz command: spawn 1615
+Hellpkz command: spawn 1615
+Hellpkz command: spawn 1615
+Hellpkz command: spawn 1615
+Hellpkz command: spawn 2783
+Hellpkz command: spawn 2783
+Hellpkz command: spawn 2783
+Hellpkz command: spawn 2783
+Hellpkz command: yell lol
+Hellpkz command: xteleto donner
+Hellpkz command: my pos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: yell lol
+Hellpkz command: yell dsfsdfsd
+Hellpkz command: yell FAGOOOTTTTTT
+Hellpkz command: interface 10494
+Hellpkz command: interface 16460
+Hellpkz command: npc 9
+Hellpkz command: train
+Hellpkz command: pickup 36 1
+Hellpkz command: train
+Hellpkz command: train
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: npc 56
+Hellpkz command: npc 77
+Hellpkz command: interface 802
+Hellpkz command: interface 3209
+Hellpkz command: interface 3209
+Hellpkz command: resetnpc
+Hellpkz command: npcreset
+Hellpkz command: train
+Hellpkz command: barrows
+Hellpkz command: barrow
+Hellpkz command: hell 1
+Hellpkz command: hell 2
+Hellpkz command: hell 1
+Hellpkz command: hell 1
+Hellpkz command: hell 1
+Hellpkz command: hell 1
+Hellpkz command: hell 1
+Hellpkz command: hell 1
+Hellpkz command: hell 1
+Hellpkz command: hell 20
+Hellpkz command: hell 7
+Hellpkz command: hell 10
+Hellpkz command: hell 9
+Hellpkz command: hell 8
+Hellpkz command: hell 11
+Hellpkz command: hell 79
+Hellpkz command: vent yes sir
+Hellpkz command: vent cmon people tell waqht i am
+Hellpkz command: vent 1
+Hellpkz command: vent 156
+Hellpkz command: vent 123123123
+Hellpkz command: vent YOUR WORLD SCAPE IS THE BEAST!!!!!
+I got 2 moms command: xteleto hellpkz
+Hellpkz command: players
+Hellpkz command: gfx 643
+Hellpkz command: gfx 643
+Hellpkz command: gfx 643
+Hellpkz command: gfx 644
+Hellpkz command: gfx 644
+Hellpkz command: gfx 644
+Hellpkz command: gfx 654
+Hellpkz command: gfx 654
+Hellpkz command: gfx 605
+Hellpkz command: gfx 605
+Hellpkz command: gfx 548
+Hellpkz command: gfx 648
+Hellpkz command: gfx 655
+Hellpkz command: gfx 655
+Hellpkz command: gfx 611
+Hellpkz command: gfx 611
+Hellpkz command: gfx 605
+Hellpkz command: gfx 657
+Hellpkz command: gfx 308
+Hellpkz command: gfx 3008
+Hellpkz command: gfx 308
+Hellpkz command: gfx 309
+Hellpkz command: gfx 642
+Hellpkz command: interface 12855
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: gfx 391
+Hellpkz command: ancient
+Hellpkz command: gfx 7
+Hellpkz command: gfx 8
+Hellpkz command: gfx 308
+Hellpkz command: gfx 309
+Hellpkz command: gfx 310
+Hellpkz command: gfx 307
+Hellpkz command: gfx 306
+Hellpkz command: gfx 305
+Hellpkz command: gfx 304
+Hellpkz command: gfx 392
+Hellpkz command: gfx 354
+Hellpkz command: gfx 601
+Hellpkz command: gfx 600
+Hellpkz command: gfx 600
+Hellpkz command: gfx 600
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: home
+Hellpkz command: bank
+Hellpkz command: pickup 2857 1
+Hellpkz command: bank
+Hellpkz command: pickup 2830
+Hellpkz command: pickup 2830 1
+Hellpkz command: bank
+Hellpkz command: empty
+Hellpkz command: pickup 2857 1
+Hellpkz command: pickup 952 1
+Hellpkz command: pickup 2856 1
+Hellpkz command: emote 831
+Hellpkz command: emote 831
+Hellpkz command: gfx 831
+Hellpkz command: emote 1913
+Hellpkz command: emote 227
+Hellpkz command: emote 2273
+Hellpkz command: emote 899
+Hellpkz command: emote 2273
+Hellpkz command: emote 2273
+I got 2 moms command: xteleto 123
+I got 2 moms command: duel
+I got 2 moms command: xteleto hellpkz
+Hellpkz command: duel
+Hellpkz command: interface 16040
+Hellpkz command: interface 16035
+Hellpkz command: interface 17014
+Hellpkz command: interface 16040
+Hellpkz command: interface 3209
+Hellpkz command: pickup 4675 1
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: interface 2480
+Hellpkz command: mypos
+Hellpkz command: tele 3080 3700
+Hellpkz command: mypos
+Hellpkz command: tele 3600 3700
+Hellpkz command: tele 3200 3700
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: tele 3200 3200
+Hellpkz command: tele 3200 3200
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: pickup 773 1
+Hellpkz command: mypos
+Hellpkz command: tele 2700 2725
+Hellpkz command: mypos
+Hellpkz command: tele 3734 9160
+Hellpkz command: tele 2734 9146
+Hellpkz command: tele 2734 9155
+Hellpkz command: tele 2734 9165
+Hellpkz command: tele 2734 9146
+Hellpkz command: mypos
+Hellpkz command: tele 2802 2761
+Hellpkz command: bank
+Hellpkz command: gfx 600
+Hellpkz command: gfx 600
+Hellpkz command: gfx 601
+Hellpkz command: gfx 602
+Hellpkz command: gfx 657
+Hellpkz command: pickup 2402 1
+Hellpkz command: ::pickup 746 1
+Hellpkz command: pickup 746 1
+Hellpkz command: bank
+Hellpkz command: pickup 992 10000
+Hellpkz command: bank
+Hellpkz command: pickup 592 10000
+Hellpkz command: bank
+Hellpkz command: pickup 892 2147000000
+Hellpkz command: gfx 601
+Hellpkz command: gfx 602
+Hellpkz command: gfx 599
+Hellpkz command: gfx 598
+Hellpkz command: gfx 601
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: tele 3200 3200
+Hellpkz command: mypos
+Hellpkz command: tele 3087 3700
+Hellpkz command: tele 3200 3509
+Hellpkz command: mypos
+Hellpkz command: pickup 2185 1
+Hellpkz command: bank
+Hellpkz command: pickup 7611 1
+Hellpkz command: pickup 1747 1
+Hellpkz command: pickup 536 100
+Hellpkz command: pickup 565 100
+Hellpkz command: pickup 1516 1
+Hellpkz command: npc 1264
+Hellpkz command: pickup 2230 1
+Hellpkz command: pickup 9204 1
+Hellpkz command: pickup 2904 1
+Hellpkz command: pickup 1079 1
+Hellpkz command: pickup ::pickup 1127 1
+Hellpkz command: pickup 1127 1
+Hellpkz command: pickup 1201 1
+Hellpkz command: pickup 1149 1
+Hellpkz command: pickup 1187 1
+Hellpkz command: tele 3200 3200
+Hellpkz command: npc 1116
+Hellpkz command: npc 3303
+Hellpkz command: pickup 8120 1
+Hellpkz command: pickup 8123 1
+Hellpkz command: pickup 1077 1
+Hellpkz command: pickup 667 1
+Hellpkz command: pickup 1107
+Hellpkz command: pickup 1107 1
+Hellpkz command: pickup 8120 1
+Hellpkz command: pickup 892 1
+Hellpkz command: pickup 592 41
+Hellpkz command: pickup 35 1
+Hellpkz command: pickup 746 1
+Hellpkz command: pickup 2402 1
+Hellpkz command: pickup 592 1
+Hellpkz command: pickup 1377 1
+Hellpkz command: pickup 592 100
+Hellpkz command: pickup 3140 1
+Hellpkz command: pickup 2830 1
+Hellpkz command: pickup 4087 1
+Hellpkz command: pickup 4585 1
+Hellpkz command: pickup 1187 1
+Hellpkz command: pickup 2904 1
+Hellpkz command: pickup 13665 1
+Hellpkz command: bank
+Hellpkz command: pickup 7611 1
+Hellpkz command: pickup 1338 1
+Hellpkz command: npc 1338
+Hellpkz command: pickup 1023 1
+Hellpkz command: pickup 1021 1
+Hellpkz command: pickup 1007 1
+Hellpkz command: pickup 3204 1
+Hellpkz command: pickup 1331 1
+Hellpkz command: pickup 1319 1
+Hellpkz command: pickup 2830 1
+Hellpkz command: pickup 526 1
+Hellpkz command: pickup 837 1
+Hellpkz command: pickup 6733 1
+Hellpkz command: pickup 3739 1
+Hellpkz command: pickup 6739 1
+Hellpkz command: pickup 2830 1
+Hellpkz command: pickup 592 1
+Hellpkz command: pickup 837 1
+Hellpkz command: pickup 6731 1
+Hellpkz command: pickup 6739 1
+Hellpkz command: pickup 6735 1
+Hellpkz command: pickup 6737 1
+Hellpkz command: pickup 2882 1
+Hellpkz command: npc 1116
+Hellpkz command: npc 3491 1
+Hellpkz command: npc 3491
+Hellpkz command: npc 78
+Hellpkz command: npc 2746
+Hellpkz command: npc 0
+Hellpkz command: npc 30
+Hellpkz command: tele 2985 9656
+Hellpkz command: npc 494
+Hellpkz command: tele 3187 3446
+Hellpkz command: npc 9
+Hellpkz command: tele 3172 3427
+Hellpkz command: tele 1899 5353
+Hellpkz command: npc 3494
+Hellpkz command: tele 3214 3417
+Hellpkz command: tele 2899 4452
+Hellpkz command: tele 2997 3373
+Hellpkz command: npc 494
+Hellpkz command: tele 3216 3215
+Hellpkz command: npc 519
+Hellpkz command: npc 1264
+Hellpkz command: tele 2577 3909
+Hellpkz command: tele 2887 9831
+Hellpkz command: tele 2912 9832
+Hellpkz command: npc 1592
+Hellpkz command: tele 3017 4824
+Hellpkz command: tele 2907 2723
+Hellpkz command: bank
+Hellpkz command: mypos
+Hellpkz command: npc 1153
+Hellpkz command: tele 3308 3660
+Hellpkz command: tele 3502 9520
+Hellpkz command: npc 1155
+Hellpkz command: npc 1154
+Hellpkz command: tele 3072 3938
+Hellpkz command: tele 2671 3712
+Hellpkz command: npc 1338
+Hellpkz command: tele 2456 10156
+Hellpkz command: mypos
+Hellpkz command: npc 1183
+Hellpkz command: npc 181
+Hellpkz command: tele 3553 9945
+Hellpkz command: npc 181
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: tele 3548 9952
+Hellpkz command: tele 2976 3342
+Hellpkz command: tele 3146 9913
+Hellpkz command: tele 3162 3667
+Hellpkz command: tele 3156 3697
+Hellpkz command: tele 3160 3730
+Hellpkz command: tele 3104 3818
+Hellpkz command: tel 3011 3858
+Hellpkz command: tele 3011 3858
+Hellpkz command: tele 3107 3933
+Hellpkz command: tele 3063 3881
+Hellpkz command: tele 2950 3886
+Hellpkz command: tele 3171 3896
+Hellpkz command: npc 83
+Hellpkz command: tele 3300 3881
+Hellpkz command: tele 2862 3594
+Hellpkz command: npc 606
+Hellpkz command: tele 2997 3360
+Hellpkz command: npc 9
+Hellpkz command: npc 23
+Hellpkz command: tele 2961 3338
+Hellpkz command: tele 2988 3336
+Hellpkz command: tele 2972 3347
+Hellpkz command: npc 66
+Hellpkz command: tele 2955 3401
+Hellpkz command: tele 3218 3432
+Hellpkz command: tele 3231 3203
+Hellpkz command: tele 2950 3388
+Hellpkz command: npc 2617
+Hellpkz command: tele 4354 3947
+Hellpkz command: tele 4354 3947
+Hellpkz command: male
+Hellpkz command: male
+Hellpkz command: tele 2991 3365
+Hellpkz command: mypos
+Hellpkz command: tele 3015 3353
+Hellpkz command: tele 2903 2729
+Hellpkz command: tele 2598 3155
+Hellpkz command: tele 2464 51 49
+Hellpkz command: tele 2464 5149
+Hellpkz command: npc 2591
+Hellpkz command: npc 2619
+Hellpkz command: tele 3478 3495
+Hellpkz command: tele 2709 3493
+Hellpkz command: tele 2864 9951
+Hellpkz command: tele 2465 3495
+Hellpkz command: tele 2895 2728
+Hellpkz command: tele 2665 9513
+Hellpkz command: pickup 5509 1
+Hellpkz command: pickup6528 1
+Hellpkz command: pickup 6528 1
+Hellpkz command: npc 504
+Hellpkz command: pickup 7611 1
+Hellpkz command: pickup 2185 1
+Hellpkz command: tele 3275 3914
+Hellpkz command: mypos
+Hellpkz command: pickup 13643 1
+Hellpkz command: pickup 2402 1
+Hellpkz command: pickup 7158 1
+Hellpkz command: tele 2440 1
+Hellpkz command: pickup 2440 1
+Hellpkz command: pickup 2436 1
+Hellpkz command: pickup 2442 1
+Hellpkz command: pickup 592 1
+Hellpkz command: pickup 526 1
+Hellpkz command: pickup 3140 1
+Hellpkz command: pickup 3140 1
+Hellpkz command: info
+Hellpkz command: npc 253
+Hellpkz command: pickup 4675 12
+Hellpkz command: pickup 1745 1
+Hellpkz command: pickup 1377 1
+Hellpkz command: pickup 1149 1
+Hellpkz command: pickup 4087 1
+Hellpkz command: pickup 4585 1
+Hellpkz command: pickup 6577 1
+Hellpkz command: pickup 6577 1
+Hellpkz command: bank
+Hellpkz command: pickup 7611
+Hellpkz command: pickup 7611 1
+Hellpkz command: npc 2882
+Hellpkz command: npc 82
+Hellpkz command: drops
+Hellpkz command: mypos
+Hellpkz command: drops
+Hellpkz command: drops
+Hellpkz command: spawn 1000
+Hellpkz command: spawn 1000
+Hellpkz command: spawn 1000
+Hellpkz command: spawn 1000
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: npc 3734
+Hellpkz command: npc 3733
+Hellpkz command: npc 3732
+Hellpkz command: npc 31
+Hellpkz command: npc 3730
+Hellpkz command: npc 3731
+Hellpkz command: npc 3729
+Hellpkz command: npc 3736
+Hellpkz command: npc 3737
+Hellpkz command: npc 3745
+Hellpkz command: tele 3200 3200
+Hellpkz command: npc 51
+Hellpkz command: npc 53
+Hellpkz command: npc 935
+Hellpkz command: tele 3200 3200
+Hellpkz command: npc 941
+Hellpkz command: npc 54
+Hellpkz command: npc 55
+Hellpkz command: interface 3208
+Hellpkz command: pickup 1745 1
+Hellpkz command: pickup 1746 1
+Hellpkz command: pickup 1747 1
+Hellpkz command: pickup 1743
+Hellpkz command: pickup 1743 1
+Hellpkz command: pickup 1749 1
+Hellpkz command: pickup 1741 1
+Hellpkz command: pickup 1739 21
+Hellpkz command: pickup 1749 1
+Hellpkz command: pickup 1751 1
+Hellpkz command: pickup 1753 1
+Hellpkz command: pickup 1753 1
+Hellpkz command: pickup 1755 1
+Hellpkz command: npc 54
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: pickup 995 214700000
+Hellpkz command: mypos
+Hellpkz command: empty
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: pickup 1737 1
+Hellpkz command: object 2561
+Hellpkz command: object 2781
+Hellpkz command: object 2966
+Hellpkz command: object 3044
+Hellpkz command: mypos
+Hellpkz command: object 3294
+Hellpkz command: object 3994
+Hellpkz command: object 4304
+Hellpkz command: object 4305
+Hellpkz command: object 6189
+Hellpkz command: object 11666
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: tele 3017 4824
+Hellpkz command: mypos
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: spec 1000
+Hellpkz command: spec 100
+Hellpkz command: spec 100
+Hellpkz command: spec 100
+Hellpkz command: spec 100
+Hellpkz command: npc 2620
+Hellpkz command: npc 51
+Hellpkz command: spec 100
+Hellpkz command: spec 100
+Hellpkz command: npc 2621
+Hellpkz command: spec 100
+Hellpkz command: bank
+Hellpkz command: spec 100
+I got 2 moms command: max
+I got 2 moms command: hit
+Hellpkz command: spec 1000
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: mymax
+Hellpkz command: maxhit
+Hellpkz command: spec 10000
+Hellpkz command: empty
+Hellpkz command: players
+Hellpkz command: pickup 3140 1
+Hellpkz command: pickup 13014 1
+Hellpkz command: pickup 13013 1
+Hellpkz command: pickup 13646 1
+Hellpkz command: pickup 13010 1
+Hellpkz command: pickup 13009 1
+Hellpkz command: pickup 13648 1
+Hellpkz command: pickup 4675 1
+Hellpkz command: pickup 1745 1
+Hellpkz command: pickup 1149 1
+Hellpkz command: pickup 6577 1
+Hellpkz command: pickup 2185 1
+Hellpkz command: pickup 7611 1
+Hellpkz command: pickup 1747 1
+Hellpkz command: pickup 1516 1
+Hellpkz command: pickup 3204 1
+Hellpkz command: pickup 1319 1
+Hellpkz command: pickup 4153 1
+Hellpkz command: pickup 3204 1
+Hellpkz command: pickup 1163 1
+Hellpkz command: pickup 837 1
+Hellpkz command: pickup 6733 1
+Hellpkz command: pickup 6739 1
+Hellpkz command: empty
+Hellpkz command: pickup 8120 1
+Hellpkz command: pickup 8123 1
+Hellpkz command: pickup 1077 1
+Hellpkz command: pickup 667 1
+Hellpkz command: pickup 1107 1
+Hellpkz command: pickup 35 1
+Hellpkz command: pickup 746 1
+Hellpkz command: pickup 2402 1
+Hellpkz command: pickup 592 1
+Hellpkz command: pickup 8100 1
+Hellpkz command: npc 1264 1
+Hellpkz command: npc 1264
+Hellpkz command: npc 1116
+Hellpkz command: pickup 773 1
+Hellpkz command: pickup 4710 1
+Hellpkz command: npc 2883
+Hellpkz command: pickup 1069 1
+Hellpkz command: pickup 1187 1
+Hellpkz command: pickup 995 60000
+Hellpkz command: pickup 1187 1
+Hellpkz command: pickup 1123 1
+Hellpkz command: pickup 3140 1
+Hellpkz command: pickup 2904 1
+Hellpkz command: pickup 1187 1
+Hellpkz command: pickup 1319 1
+Hellpkz command: pickup 4151 1
+Hellpkz command: pickup 5730 1
+Hellpkz command: pickup 1187 1
+Hellpkz command: pickup 4827 1
+Hellpkz command: pickup 1201 1
+Hellpkz command: highscores
+Hellpkz command: highscores
+I got 2 moms command: highscores
+Hellpkz command: highscores
+Hellpkz command: highscores
+Hellpkz command: highscores
+Hellpkz command: highscores
+Hellpkz command: highscores
+Hellpkz command: highscores
+Hellpkz command: highscores
+Hellpkz command: interface 19040
+Hellpkz command: interface 16020
+Hellpkz command: pickup 12000 1
+Hellpkz command: pickup 12000 1
+Hellpkz command: bank
+Hellpkz command: pickup 993 1
+Hellpkz command: bank
+Hellpkz command: empty
+Hellpkz command: pickup 2621 1
+Hellpkz command: pickup 3884 1
+Hellpkz command: pickup 3885 1
+Hellpkz command: pickup 3886 1
+Hellpkz command: pckup 3887 1
+Hellpkz command: pickup 3887 1
+Hellpkz command: pickup 3888 1
+Hellpkz command: pickup 3889 1
+Hellpkz command: pickup 3890 1
+Hellpkz command: pickup 3891 1
+Hellpkz command: pickup 3892 1
+Hellpkz command: pickup 7096 1
+Hellpkz command: pickup  3869 1
+Hellpkz command: pickup 3869 1
+Hellpkz command: pickup 3870 1
+Hellpkz command: pickup 3871 1
+Hellpkz command: pickup 3872 1
+Hellpkz command: pickup 3873 1
+Hellpkz command: pickup 3874 1
+Hellpkz command: pickup 3875 1
+Hellpkz command: pickup 3876 1
+                                                                Hellpkz command: pickup 3869 1
+Hellpkz command: pickup 3880 1
+Hellpkz command: mALE
+Hellpkz command: male
+Hellpkz command: pickup 12000
+Hellpkz command: pickup 12000 1
+Hellpkz command: empty
+Hellpkz command: pickup 3873 1
+Hellpkz command: pickup 3874 1
+Hellpkz command: pickup 3875 1
+Hellpkz command: pickup 3876 1
+Hellpkz command: bank
+Hellpkz command: pickup 2621 1
+Hellpkz command: master
+Hellpkz command: pickup 995 100000
+Hellpkz command: pickup 2147000000
+Hellpkz command: pickup 995 2147000000
+Hellpkz command: pickup 2904 1
+Hellpkz command: pickup 3877 1
+Hellpkz command: pickup 3878 1
+Hellpkz command: pickup 3879 1
+Hellpkz command: pickup 3879 1
+Hellpkz command: pickup 3884 1
+Hellpkz command: pickup 3889 1
+Hellpkz command: pickup 3885 1
+Hellpkz command: pickup 3886 1
+Hellpkz command: pickup 3887 1
+Hellpkz command: pickup 3888 1
+Hellpkz command: 
+Hellpkz command: pickup 3890 1
+Hellpkz command: pickup 3891 1
+Hellpkz command: pickup 3892 1
+Hellpkz command: pickup 7096 1
+Hellpkz command: pickup 2185 1
+Hellpkz command: pickup 2195 1
+Hellpkz command: pickup 2207 1
+Hellpkz command: pickup 2202 1
+Hellpkz command: pickup 14500 1
+Hellpkz command: pickup 14500 1
+Hellpkz command: npc 10
+Hellpkz command: pickup 592 1000
+Hellpkz command: pickup 892 100000
+Hellpkz command: npc 10
+Hellpkz command: npc 10
+Hellpkz command: pickup 3888 1
+Hellpkz command: pickup 7096 1
+Hellpkz command: pickup 35 1
+Hellpkz command: npc 10
+Hellpkz command: pickup 667 1
+Hellpkz command: spec 10000
+Hellpkz command: pickup 746 1
+Hellpkz command: pickup 2402 1
+Hellpkz command: pickup 773 1
+Hellpkz command: bankall
+Hellpkz command: bank
+Hellpkz command: bankall
+Hellpkz command: pickup 6857 1
+Hellpkz command: pickup 7096 1
+Hellpkz command: pickup 6863 1
+Hellpkz command: pickup 861 1
+Hellpkz command: emote 600
+Hellpkz command: emote 1322
+Hellpkz command: emote 2065
+Hellpkz command: emote 2064
+Hellpkz command: emote 2064
+Hellpkz command: emote 2067
+Hellpkz command: emote 2066
+Hellpkz command: emote 2065
+Hellpkz command: emote 2065
+Hellpkz command: emote 2064
+Hellpkz command: pickup 4718 1
+Hellpkz command: pickup 7158 1
+Hellpkz command: pickup 4755 1
+Hellpkz command: emote 2927 1
+Hellpkz command: emote 2927
+Hellpkz command: emote 2890
+Hellpkz command: emote 811
+Hellpkz command: emote 2967
+Hellpkz command: emote 2937
+Hellpkz command: tele 3200 3200
+Hellpkz command: npc 10
+Hellpkz command: npc 2026
+Hellpkz command: pickup 35 1
+Hellpkz command: pickup 7096 1
+Hellpkz command: pickup 3888 1
+Hellpkz command: pure
+Hellpkz command: emote 2065
+Hellpkz command: emote 2064
+Hellpkz command: emote 1664
+Hellpkz command: emote 407
+Hellpkz command: npc 2
+Hellpkz command: emote 2066
+Hellpkz command: emote 2066
+Hellpkz command: pickup 4718 1
+Hellpkz command: emote 2066
+Hellpkz command: emote 2066
+Hellpkz command: emote 2067
+Hellpkz command: emote 2064
+Hellpkz command: emote 2063
+Hellpkz command: emote 2065
+Hellpkz command: emote 1662
+Hellpkz command: emote 1658 1
+Hellpkz command: emote 1658
+Hellpkz command: Emote 1658
+Hellpkz command: emote 1658
+Hellpkz command: emote 2065
+Hellpkz command: pickup 6528 1
+Hellpkz command: npc 2
+Hellpkz command: emote 2067
+Hellpkz command: emote 2066
+Hellpkz command: pickup 6609 1
+Hellpkz command: emote 2067
+Hellpkz command: emote 2063
+Hellpkz command: emote 2064
+Hellpkz command: emote 2065
+Hellpkz command: emote 2067
+Hellpkz command: emote 2070
+Hellpkz command: emote 2561
+Hellpkz command: emote 2065
+Hellpkz command: emote 2563
+Hellpkz command: emote 2563
+Hellpkz command: pickup 7158 1
+Hellpkz command: pickup 4755 1
+Hellpkz command: npc 20
+Hellpkz command: npc 2
+Hellpkz command: npc 2
+Hellpkz command: npc 20
+Hellpkz command: pickup 1321 12
+Hellpkz command: pickup 5698 1
+Hellpkz command: pickup 855 1
+Hellpkz command: pickup 4718 1
+Hellpkz command: emote 1666
+Hellpkz command: pickup 773 1
+Hellpkz command: emote 2561
+Hellpkz command: emote 2560
+Hellpkz command: emote 2562 1
+Hellpkz command: emote 2562
+Hellpkz command: emote 407
+Hellpkz command: emote 2563
+Hellpkz command: emote 2564
+Hellpkz command: emote 2565
+Hellpkz command: emote 2063
+Hellpkz command: emote 406
+Hellpkz command: emote 408
+Hellpkz command: emote 409
+Hellpkz command: emote 410
+Hellpkz command: emote 2927
+Hellpkz command: emote 2937
+Hellpkz command: emote 2967
+Hellpkz command: emote 2890
+Hellpkz command: npc 20
+Hellpkz command: npc 20
+Hellpkz command: pickup 667 1
+Hellpkz command: pickup 8100
+Hellpkz command: pickup 8100 1
+Hellpkz command: spec 10000
+Hellpkz command: master
+Hellpkz command: npc 20
+Hellpkz command: pickup 2402 1
+Hellpkz command: pickup 746 1
+Hellpkz command: npc 20
+Hellpkz command: npc  20
+Hellpkz command: npc 20
+Hellpkz command: pickup 892 2147000000
+Hellpkz command: npc 20
+Hellpkz command: npc 20
+Hellpkz command: npc 20
+Hellpkz command: players
+I got 2 moms command: xteletp hellpkz
+I got 2 moms command: xteleto hellpkz
+Hellpkz command: bank
+Hellpkz command: xteleto i got 2 moms
+Hellpkz command: pickup 430 1
+I got 2 moms command: pickup 3751 1
+Hellpkz command: pickup 3751 1
+Hellpkz command: pickup 7462 1
+I got 2 moms command: pickup 1077 1
+Hellpkz command: pickup 1077 1
+I got 2 moms command: pickup 2904 1
+Hellpkz command: pickup 2904 1
+I got 2 moms command: 
+Hellpkz command: pickup 3753 1
+Hellpkz command: pickup 6737 1
+Hellpkz command: pickup 2621 1
+I got 2 moms command: copy hellpkz
+I got 2 moms command: pickup 181 1
+Hellpkz command: pickup 8002 1
+I got 2 moms command: pickup 8004 1
+Hellpkz command: bank
+Hellpkz command: ancientz
+I got 2 moms command: bank
+I got 2 moms command: xteleto hellpk<
+I got 2 moms command: xteleto hellpkz
+I got 2 moms command: bank
+I got 2 moms command: xteleto hellpkz
+I got 2 moms command: xteleto hellpkz
+I got 2 moms command: xteleto hellpkz
+I got 2 moms command: ccmake kikcer
+Hellpkz command: ccjoin i got 2 moms
+Hellpkz command: cm lol
+Hellpkz command: players
+Hellpkz command: bank
+Hellpkz command: mute hellpkz12345
+Hellpkz command: ipmute hellpkz12345
+Hellpkz command: unmute hellpkz12345
+Hellpkz command: mute hellpkz 12345
+Hellpkz command: mute hellpkz12345
+Hellpkz command: unmute hellpkz12345
+Hellpkz command: mute hellpkz12345
+Hellpkz command: unmute hellpkz12345
+Hellpkz command: unmute hellpkz 12345
+Hellpkz command: unmute hellpkz12345
+Hellpkz command: mute hellpkz12345
+Hellpkz command: unmute hellpkz12345
+Hellpkz command: mute hellpkz12345
+Hellpkz command: unmute hellpkz12345
+Hellpkz command: unmute hellpkz12345
+Hellpkz command: mute hellpkz12345
+Hellpkz command: unmute hellpkz12345
+Hellpkz command: unmute hellpkz12345
+Hellpkz command: mute hellpkz12345
+Hellpkz command: unmute hellpkz12345
+Hellpkz command: interface 16050
+Hellpkz command: ipmute hellpkz12345
+Hellpkz command: unipmute hellpkz12345
+Hellpkz command: ipmute hellpkz12345
+Hellpkz command: unipmute hellpkz12345
+Hellpkz command: jail hellpkz12345
+Hellpkz command: jail hellpkz12345
+Hellpkz command: ccmake conasss
+Hellpkz command: ban hellpkz12345
+Hellpkz command: banuser hellpkz12345
+Hellpkz command: unban
+Hellpkz command: unban hellpkz12345
+Hellpkz command: givemod hellpkz123
+Hellpkz command: demote hellpkz123
+Hellpkz command: givemod hellpkz123
+Hellpkz command: demote hellpkz123
+Hellpkz command: pickup 1002 1
+Hellpkz command: male
+Hellpkz command: pickup 993 1
+Hellpkz command: item 993
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: npc 81
+Hellpkz command: npc 3304
+Hellpkz command: npc 3303
+Hellpkz command: npc 2
+Hellpkz command: pickup 773 1
+Hellpkz command: npc 50
+Hellpkz command: npc 2
+Hellpkz command: npc 1
+Hellpkz command: normal
+Hellpkz command: dropsd
+Hellpkz command: npc 3200
+I got 2 moms command: bank
+I got 2 moms command: bank
+Hellpkz command: pickup 47181 
+Hellpkz command: pickup 4718 1
+I got 2 moms command: bank
+Hellpkz command: pickup 777 1
+I got 2 moms command: bank
+I got 2 moms command: hail
+I got 2 moms command: hail
+Hellpkz command: hail
+Hellpkz command: hail
+Hellpkz command: spamz
+Hellpkz command: teleall
+I got 2 moms command: spamz
+Hellpkz command: npc 2
+Hellpkz command: bank
+Hellpkz command: pickup 13642 1
+Hellpkz command: pickup 13007 1
+Hellpkz command: pickup 13008 1
+Hellpkz command: pickup 13006 1
+Hellpkz command: pickup 13643 1
+Hellpkz command: pickup 1335 1
+Hellpkz command: char
+Hellpkz command: npc 2
+Hellpkz command: npcreset
+Hellpkz command: npc 2
+Hellpkz command: pickup 13011 1
+Hellpkz command: pickup 13012 1
+Hellpkz command: pcikup 13644 1
+Hellpkz command: pickup 13645 1
+Hellpkz command: pickup 13644 1
+Hellpkz command: npcreset
+Hellpkz command: npc 2
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: hp hellpkz 100
+Hellpkz command: hp i got 2 moms 100
+Hellpkz command: hp i_got_2_moms 1000
+I got 2 moms command: hp hellpkz 100
+I got 2 moms command: hp hellpkz 1000
+Hellpkz command: spec 10000
+Hellpkz command: xteleall
+Hellpkz command: xtelealltome
+Hellpkz command: teleall
+Hellpkz command: xteletome i got
+Hellpkz command: bank
+Hellpkz command: combat 100
+Hellpkz command: combat 10
+Hellpkz command: combat 50
+Hellpkz command: combat 0
+Hellpkz command: combat 100
+Hellpkz command: combat 41
+I got 2 moms command: emote 722
+I got 2 moms command: emote 762
+I got 2 moms command: emote 762
+I got 2 moms command: emote 828
+I got 2 moms command: emote 746
+I got 2 moms command: emote 756
+I got 2 moms command: emote 755
+I got 2 moms command: emote 747
+I got 2 moms command: emote 748
+I got 2 moms command: bank
+I got 2 moms command: bank
+I got 2 moms command: bank
+I got 2 moms command: bank
+I got 2 moms command: bank
+Hellpkz command: npc 2
+Hellpkz command: pnpc 2
+Hellpkz command: unpc
+Hellpkz command: pnpc 2
+Hellpkz command: pnpc 1
+Hellpkz command: pnpc 3200
+Hellpkz command: emote 3144
+Hellpkz command: emote 3146
+Hellpkz command: emote 3147
+Hellpkz command: emote 3148
+Hellpkz command: emote 3149
+Hellpkz command: emote 3146
+Hellpkz command: unpc
+Hellpkz command: emote 746
+Hellpkz command: emote63
+Hellpkz command: emote 65
+Hellpkz command: pnpc 2737
+Hellpkz command: emote 2623
+Hellpkz command: emote 2624
+Hellpkz command: emote 2625
+Hellpkz command: emote 2626
+Hellpkz command: tele 3200 3200
+Hellpkz command: pickup 773 1
+Hellpkz command: mypos
+Hellpkz command: pickup 3904 1
+Hellpkz command: pickup 3906 1
+Hellpkz command: pickup 3908 1
+Hellpkz command: pickup 3910 1
+Hellpkz command: pickup 3912 1
+Hellpkz command: pickup 3914 1
+Hellpkz command: pickup 3916 1
+Hellpkz command: pickup 3918 1
+Hellpkz command: pickup 3920 1
+Hellpkz command: pickup 3922 1
+Hellpkz command: pickup 3924 1
+Hellpkz command: pickup 3909 1
+Hellpkz command: pickup 3904 1
+Hellpkz command: pickup 3916 1
+Hellpkz command: pickup 3910
+Hellpkz command: pickup 3910 1
+Hellpkz command: pickup 3912 1
+Hellpkz command: pickup 1
+Hellpkz command: pickup 1
+Hellpkz command: pickup 1 1
+Hellpkz command: pickup 2 1
+Hellpkz command: pickup 3046 1
+Hellpkz command: pickup 3046 1
+Hellpkz command: pickup 3046 1
+Hellpkz command: pickup 3046 1
+Hellpkz command: pickup 2394 1
+Hellpkz command: pickup 2394 1
+Hellpkz command: pickup 2128 1
+Hellpkz command: object 7146
+Hellpkz command: tele 3021 4842
+Hellpkz command: tele 3200 3200
+Hellpkz command: object 10229
+Hellpkz command: pickup 3914 1
+Hellpkz command: pickup 3914 1
+Hellpkz command: pickup 14520 1
+Hellpkz command: bank
+Hellpkz command: pickup 3871 1
+Hellpkz command: pickup 3904 1
+Hellpkz command: pickup 3906 1
+Hellpkz command: pickup 3907 1
+Hellpkz command: pickup 3910 1
+Hellpkz command: interface 904
+Hellpkz command: interface 904
+Hellpkz command: ccmake loz
+Hellpkz command: cm @red@lol
+Hellpkz command: cm @whi@ fuck youuuuuuuuuuu
+Hellpkz command: pickup 2756 1
+Hellpkz command: yell @gre@hello bitches
+Hellpkz command: home
+Hellpkz command: bank
+Hellpkz command: pickup 3753 1
+Hellpkz command: pickup 7682 1
+Hellpkz command: pickup 2740 1
+Hellpkz command: pickup 10758 1
+Hellpkz command: pickup 2725 1
+Hellpkz command: interface 16010
+Hellpkz command: interface 16010
+Hellpkz command: assault
+Hellpkz command: assault
+Hellpkz command: assault
+Hellpkz command: interface 16010
+Hellpkz command: interass
+Hellpkz command: interface 16010
+Hellpkz command: interaASS
+Hellpkz command: interass
+Hellpkz command: interass
+Hellpkz command: interass
+Hellpkz command: interass
+Hellpkz command: interass
+Hellpkz command: interass
+Hellpkz command: interass
+Hellpkz command: interass
+Hellpkz command: interrole
+Hellpkz command: interass
+Hellpkz command: interrole
+Hellpkz command: interrole
+Hellpkz command: interass
+Hellpkz command: interrole
+Hellpkz command: interrole
+Hellpkz command: interrole
+Hellpkz command: interass
+Hellpkz command: interass
+Hellpkz command: interrole
+Hellpkz command: shop 3
+Hellpkz command: shop 1
+Hellpkz command: shop 2
+Hellpkz command: shop 15
+Hellpkz command: shop 6
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: empty
+Hellpkz command: bank
+Hellpkz command: shop 22
+Hellpkz command: shop 20
+Hellpkz command: bank
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: ::bank
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: bank
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: pickup 3928 1
+Hellpkz command: pickup 3928 1
+Hellpkz command: pickup 3928 1
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: bank
+Hellpkz command: shop 20
+Hellpkz command: add models
+Hellpkz command: bank
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: bank
+Hellpkz command: shop 20
+Hellpkz command: empty
+Hellpkz command: add models
+Hellpkz command: interrole
+Hellpkz command: shop 20
+Hellpkz command: pickup 995 2147000000
+Hellpkz command: shop 20
+Hellpkz command: pickup 3930 1
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: bank
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: bank
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: pickup 8200 1
+Hellpkz command: pickup 8100 1
+Hellpkz command: shop 20
+Hellpkz command: pickup 3891 1
+Hellpkz command: empty
+Hellpkz command: shop 2
+Hellpkz command: shop 20
+Hellpkz command: pickup 995 2147000000
+Hellpkz command: pickup 3884 1
+Hellpkz command: bank
+Hellpkz command: shop 10
+Hellpkz command: shop 11
+Hellpkz command: shop 12
+Hellpkz command: shop 13
+Hellpkz command: shop 14
+Hellpkz command: shop 15
+Hellpkz command: shop 16
+Hellpkz command: shop 17
+Hellpkz command: shop 9
+Hellpkz command: shop 8
+Hellpkz command: pickup 3889 1
+Hellpkz command: pickup 3886 1
+Hellpkz command: pickup 3891 1
+Hellpkz command: bank
+Hellpkz command: bank
+Hellpkz command: pickup 2204 1
+Hellpkz command: pickup 2400 1
+Hellpkz command: pickup 2402 1
+Hellpkz command: pickup 3885 1
+Hellpkz command: pickup 3890 1
+Hellpkz command: pickup 3887 1
+Hellpkz command: pickup 3892 1
+Hellpkz command: spamz lol
+Hellpkz command: shop 20
+Hellpkz command: shop 20
+Hellpkz command: empty
+Hellpkz command: pickup 995 2124000000
+Hellpkz command: pickup 3960 1
+Hellpkz command: shop 20
+Hellpkz command: shop 10
+Hellpkz command: shop 9
+Hellpkz command: shop 14
+Hellpkz command: shop 15
+Hellpkz command: shop 16
+Hellpkz command: shop 17
+Hellpkz command: shop 19
+Hellpkz command: shop 100
+Hellpkz command: bank
+Hellpkz command: npc 2888
+Hellpkz command: npc 2688
+Hellpkz command: npcreset
+Hellpkz command: pnpc 2688
+Hellpkz command: emote 2688
+Hellpkz command: emote 163
+Hellpkz command: emote 165
+Hellpkz command: emote 167
+Hellpkz command: emote 15
+Hellpkz command: tele 2717 9807
+Hellpkz command: tele 2900 4449
+Hellpkz command: pickup 773 1
+Hellpkz command: pickup 773 1
+Hellpkz command: tele 1903 5353
+Hellpkz command: tele 2922 10224
+Hellpkz command: tele 2922 10000
+Hellpkz command: tele 3488 9492
+Hellpkz command: tele 2702 9565
+Hellpkz command: mypos
+Hellpkz command: tele  2688 9564
+Hellpkz command: tele 2688 9564
+Hellpkz command: mypos
+Hellpkz command: tele 2683 9570
+Hellpkz command: tele 2867 9955
+Hellpkz command: tele 2710 9466
+Hellpkz command: tele 3281 2765
+Hellpkz command: tele 2856 3812
+Hellpkz command: tele 2516 3369
+Hellpkz command: tele 2529 3307
+Hellpkz command: tele 2516 3044
+Hellpkz command: tele 3082 3420
+Hellpkz command: tele 2902 3510
+Hellpkz command: tele 2926 3559
+Hellpkz command: tele 2541 3546
+Hellpkz command: mypos
+Hellpkz command: tele 2540 3600
+Hellpkz command: tele 2540 3560
+Hellpkz command: tele 2541 3546
+Hellpkz command: tele 3082 3420
+Hellpkz command: tele 3490 3090
+Hellpkz command: tele 3550 3548
+Hellpkz command: tele 3354 3344
+Hellpkz command: mypos
+Hellpkz command: mypos
+Hellpkz command: tele
+Hellpkz command: mypos
+Hellpkz command: interrole
+Hellpkz command: interass
+Hellpkz command: bank
+Hellpkz command: tele 3350 3340
+Hellpkz command: mypos
+Hellpkz command: bank
+Hellpkz command: shop 20
+Hellpkz command: pickup 4389 1
+Hellpkz command: pickup 4389 1
+Hellpkz command: shop 20
+Hellpkz command: pickup 4389 1
+Hellpkz command: empty
+Hellpkz command: pickup 995 2147000000
+Hellpkz command: bank
+Hellpkz command: pickup 7462 1
+Hellpkz command: pickup 3888 1
+Hellpkz command: pickup 3926 1
+Hellpkz command: pickup 3934 1
+Hellpkz command: pickup 3101 1
+Hellpkz command: bank
+I got 2 moms command: bank
+I got 2 moms command: bank
+I got 2 moms command: male
+I got 2 moms command: bank
+I got 2 moms command: pickup 14518 1
+I got 2 moms command: pickup 14517 1
+I got 2 moms command: pickup 14519 1
+I got 2 moms command: bank
+I got 2 moms command: tele 3200 3200
+Hellpkz command: tele 2737 9435
+I got 2 moms command: xteleto hellpkz
+Hellpkz command: pickup 3962 1
+Hellpkz command: pickup 4391 1
+I got 2 moms command: pickup
+Hellpkz command: pickup 3940 1
+Hellpkz command: pickup 3942 1
+Hellpkz command: pickup 3944 1
+I got 2 moms command: copy hellpkz
+Hellpkz command: pickup 3946 1
+Hellpkz command: pickup 3948 1
+Hellpkz command: switch
+Hellpkz command: ancient
+I got 2 moms command: bank
+I got 2 moms command: xteleto hellpkz
+Hellpkz command: pickup 14521 1
+Hellpkz command: pickup 592 1
+Hellpkz command: pickup 35 1
+Hellpkz command: tele
+Hellpkz command: xteleto
+Hellpkz command: Ccmake             
+Hellpkz command: ccmake 
+Hellpkz command: ccmake
+Hellpkz command: ccmake 
+Hellpkz command: cm
+Hellpkz command: cm
+Hellpkz command: ccmake
+Hellpkz command: ccrename
+Hellpkz command: ccrename
+Hellpkz command: ccmake looooooool
+Hellpkz command: ccleave
+Hellpkz command: ccleave 
+Hellpkz command: ccleave     
+Hellpkz command: ccdelete                
+Hellpkz command: ccdelete lol
+Hellpkz command: ccdelete
+Hellpkz command: ccjoin
+Hellpkz command: ccjoin 
+Hellpkz command: ccjoin lol
+Hellpkz command: ccmake
+Hellpkz command: ccmake xd
+Hellpkz command: ccjoin hellpkz
+Hellpkz command: cckick
+Hellpkz command: ccjoin
+Hellpkz command: ccmake
+Hellpkz command: ccjoin
+Hellpkz command: giveowner hellpkz
+Hellpkz command: master
+Owner king command: giveadmin owner king
+Owner king command: maste
+Owner king command: master
+Owner king command: pickup 748 1
+Owner king command: drops
+Hellpkz command: hp
+Hellpkz command: heal
+Hellpkz command: hp hellpkz 99
+Hellpkz command: hp playername 99
+Hellpkz command: hp Hellpkz 100
+Owner king command: markuser killpkz
+Owner king command: markuser killpkz
+Owner king command: master
+Owner king command: master
+Owner king command: markuser killpkz
+Owner king command: infract killpkz
+Owner king command: markuser Killpkz
+Owner king command: markuser Killpkz
+I got 2 moms command: markuser killpkz
+Owner king command: markuser 1 killpkz
+Owner king command: markuser 1 killpkz
+Owner king command: markuser 2 Killpkz
+Owner king command: markuser Killpk
+Owner king command: markuser 1 killpk
+Owner king command: markuser killpkz
+Owner king command: markuser killpkz
+Owner king command: markuser lol killpkz
+Owner king command: markuser kilpkz lol
+Owner king command: markuser killpkz
+Owner king command: markuser killpkz
+Owner king command: markuser killpkz
+Owner king command: markuser pker
+Owner king command: markuser pker
+Owner king command: markuser pker
+Owner king command: markuser pker
+I got 2 moms command: markuser pker
+I got 2 moms command: markuser pker
+I got 2 moms command: markuser pker
+I got 2 moms command: markuser pker
+I got 2 moms command: markuser pker
+I got 2 moms command: markuser pker
+I got 2 moms command: tz
+I got 2 moms command: people
+I got 2 moms command: spamz
+I got 2 moms command: combat 10
+I got 2 moms command: interface 3559
+I got 2 moms command: interface 3559
+I got 2 moms command: hell
+I got 2 moms command: hell
+I got 2 moms command: hell
+I got 2 moms command: hell 100
+I got 2 moms command: players
+I got 2 moms command: kick I got 2 moms
+I got 2 moms command: cm lol
+I got 2 moms command: clanchat
+I got 2 moms command: clanchat
+I got 2 moms command: whatsnew
+I got 2 moms command: commands
+I got 2 moms command: test
+I got 2 moms command: test 100
+I got 2 moms command: rules
+I got 2 moms command: vent lol
+I got 2 moms command: vent
+I got 2 moms command: vent
+I got 2 moms command: puzzle
+I got 2 moms command: puzzle
+I got 2 moms command: jad
+I got 2 moms command: war
+I got 2 moms command: hp 99
+I got 2 moms command: hp I got 2 moms 100
+I got 2 moms command: hp playername 100
+I got 2 moms command: pure
+I got 2 moms command: tele 1 1
+Hellpkz command: interface 7224
+Hellpkz command: interface 7224
+Hellpkz command: interfae 7424
+Hellpkz command: interface 5292
+Hellpkz command: interface 5063
+Hellpkz command: interface 5064
+Hellpkz command: pickup 5064 1
+Hellpkz command: bank
+Hellpkz command: assault
+Hellpkz command: players
+Hellpkz command: bank
+Hellpkz command: interface 6299
+Hellpkz command: tele 2445 5177
+Hellpkz command: tele 2926 4846
+Hellpkz command: tele 3277 3515
+Hellpkz command: train
+Hellpkz command: Tele 2477 3437
+Hellpkz command: tele 2477 3437
+Hellpkz command: bank
+Hellpkz command: tele 3288 3886
+Hellpkz command: tele 3200 3200
+Hellpkz command: tele 3250 3250
+Hellpkz command: npcreset
+Hellpkz command: bank
+Hellpkz command: normals
+Hellpkz command: home
+Hellpkz command: tele 3200 3200
+Hellpkz command: tele 3220 3202
+Hellpkz command: npc 553
+Hellpkz command: interface 638
+Hellpkz command: npc 2088
+Hellpkz command: empty::empty
+Hellpkz command: npc 741
+Hellpkz command: tele 3200 3200
+Hellpkz command: npc 741
+Hellpkz command: mypos
+Hellpkz command: shop 4
+Hellpkz command: shop 13
+Hellpkz command: cm lol
+Hellpkz command: cm
+Hellpkz command: interface 15110
+Hellpkz command: interface 15110
+Hellpkz command: interface 15110
+Hellpkz command: interface 16640
+Hellpkz command: interface 16460
+Hellpkz command: interface 15110
+Hellpkz command: interface 16110
+Hellpkz command: interface 15110
+Hellpkz command: interface 16460
+Hellpkz command: interface 15110
+Hellpkz command: cm
+Hellpkz command: xteleto hellpkzlol
+Hellpkz command: cm lol
+Hellpkz command: cm lolo
+Hellpkz command: cm
+Hellpkz command: ctalk lolo
+Hellpkz command: ccmake lol
+Hellpkz command: join hellpkz
+Hellpkz command: join hellpkz
+Hellpkz command: join lol
+Hellpkz command: join
+Hellpkz command: ccmake
+Hellpkz command: ccmake loool
+Hellpkz command: ccjoin
+Hellpkz command: cm lol
+Hellpkz command: ctalk lolo
+Hellpkz command: ctalk lolololololol
+Hellpkz command: object 8987
+Hellpkz command: object 8972
+Hellpkz command: object 7321
+Hellpkz command: npc 1
+Hellpkz command: npc 1
+Hellpkz command: npc 2
+Hellpkz command: npc 1
+Hellpkz command: npc 1
+Hellpkz command: npc 2
+Hellpkz command: npc 1
+Hellpkz command: npc 1
+Hellpkz command: clientdrop
+Hellpkz command: lag
+Hellpkz command: fpson
+Hellpkz command: talklol
+Hellpkz command: ctalk/123
+Hellpkz command: ccmake looooool
+Hellpkz command: ctalk/looooool
+Hellpkz command: cml
+Hellpkz command: cm
+Hellpkz command: cmloool
+Hellpkz command: ccmake looooool
+Hellpkz command: cmlol
+Hellpkz command: cmdont be crazy
+Hellpkz command: empty
+Hellpkz command: bank
+Hellpkz command: pickup 995 2147000000
+Hellpkz command: shop 20
+Hellpkz command: bank
+Hellpkz command: empty
+Hellpkz command: pickup 13014 1
+Hellpkz command: pickup 13013 1
+Hellpkz command: pickup 13012 1
+Hellpkz command: pickup 3926 1
+Hellpkz command: pickup 13011 1
+Hellpkz command: pickup 13010 1
+Hellpkz command: pickup 13009 1
+Hellpkz command: pickup 13008 1
+Hellpkz command: pickup 13007 1
+Hellpkz command: pickup 13006 1
+Hellpkz command: pickup 14517 1
+Hellpkz command: pickup 14518 1
+Hellpkz command: pickup 14519 1
+Hellpkz command: pickup 2202 1
+Hellpkz command: pickup 13642 1
+Hellpkz command: pickup 13643 1
+Hellpkz command: pickup 13644 1
+Hellpkz command: pickup 13645 1
+Hellpkz command: pickup 13646 1
+Hellpkz command: pickup 13647 1
+Hellpkz command: pickup 13648 1
+Hellpkz command: pickup 13650 1
+Hellpkz command: pickup 13649 1
+Hellpkz command: pickup 8002 1
+Hellpkz command: bank
+Frostie command: spawn 14367
+Frostie command: master
+Frostie command: pickup 8002 1
+Frostie command: pickup 13665 1
+Frostie command: pickup 8003 1
+Frostie command: pickup 13642 1
+Frostie command: pickup 13007 1
+Frostie command: pickup 13008 1
+Frostie command: pickup 13007 1
+Frostie command: pickup 13643 1
+Frostie command: xteletome hellpkz
+Frostie command: xteleall
+Frostie command: xteletome hellpkz
+Frostie command: pickup 14498 2147000000
+Frostie command: pickup 14517 1
+Frostie command: pickup 14518 1
+Frostie command: pickup 14519 1
+Frostie command: pickup 3885 1
+Frostie command: pickup 3884 1
+Frostie command: pickup 4827 1
+Frostie command: pickup 4151 1
+Frostie command: pickup 993 1
+Frostie command: bank
+Frostie command: empty
+Frostie command: tele 1111 2222
+Frostie command: pickup 3926 1
+Frostie command: pickup 3913 1
+Frostie command: pickup 3888 1
+Frostie command: pickup 3940 1
+Frostie command: pickup 3942 1
+Frostie command: pickup 3944 1
+Frostie command: pickup 3928 1
+Frostie command: pickup 3930 1
+Frostie command: pickup 3932 1
+Frostie command: pickup 3934 1
+Frostie command: pickup 3936 1
+Frostie command: pickup 3938 1
+Frostie command: pickup 3946 1
+Frostie command: pickup 3948 1
+Frostie command: pickup 3950 1
+Frostie command: pickup 3952 1
+Frostie command: pickup 3954 1
+Frostie command: pickup 3960 1
+Frostie command: pickup 3962 1
+Frostie command: pickup 3964 1
+Frostie command: pickup 3877 1
+Frostie command: pickup 3878 1
+Frostie command: pickup 3879 1
+Frostie command: pickup 3880 1
+Frostie command: pickup 1540 1
+Frostie command: pickup 4045 1
+Frostie command: pickup 7458 1
+Frostie command: pickup 7461 1
+Frostie command: pickup 7611 1
+Frostie command: pickup 544 1
+Frostie command: pickup 542 1
+Frostie command: pickup 1264 1
+Frostie command: pickup 1263 1
+Frostie command: pickup 7456 1
+Frostie command: pickup 1037 1
+Frostie command: bank
+Frostie command: empty
+Frostie command: shop 11
+Frostie command: shop 20
+Frostie command: pickup 995 2147000000
+Frostie command: shop 20
+Frostie command: shop 20
+Frostie command: shop 20
+Frostie command: shop 20
+Frostie command: shop 11
+Frostie command: tele 11
+Frostie command: clanchat
+Frostie command: ccmake Frostie's
+Frostie command: cm/ sup
+Frostie command: cm/yoo
+Frostie command: shop 22
+Frostie command: shop 20
+Frostie command: shop 15
+Frostie command: shop 3
+Frostie command: test
+Frostie command: drops
+Frostie command: suggestion yo
+Frostie command: hp
+Frostie command: hp frostie 9999
+Frostie command: npc 50
+Frostie command: pk
+Frostie command: tele 2540 4716
+Frostie command: markuser frostie
+Frostie command: runes
+Frostie command: shop 20
+Frostie command: npc 3888
+Frostie command: npc 3333
+Frostie command: pickup 1645 1
+Frostie command: item 7462 1
+Frostie command: pickup 7462 1
+Frostie command: home
+Frostie command: home
+Frostie command: home
+Frostie command: home
+Frostie command: pickup 392 10000
+Frostie command: bank
+Frostie command: pickup 3024 1
+Frostie command: item 6570 1
+Frostie command: pickup 06570 1
+Frostie command: pickup 1725 1
+Frostie command: pickup 1645 1
+Frostie command: commands
+Frostie command: help
+Frostie command: funpk
+Frostie command: drops
+Frostie command: ::pickup 7608 1
+Frostie command: pickup 6992 1
+Frostie command: pickup 7608 1
+Frostie command: pickup 7609 1
+Frostie command: pickup 7609 1
+Frostie command: pickup 7609 1
+Frostie command: pickup 1107 1
+Frostie command: pickup 1077 1
+Frostie command: pickup 3753 1
+Frostie command: pickup 6737 1
+Frostie command: pickup 746 1
+Frostie command: pickup 2402 1
+Enceladus command: pickup 995 10000000
+Enceladus command: npc 461
+Enceladus command: master
+Test command: donator
+Test command: donater
+Enceladus command: cm/blue
+Enceladus command: blue
+Enceladus command: green
+Enceladus command: cm/wave asdas
+Enceladus command: wave asdasd
+Enceladus command: noclip
+Enceladus command: wave asdas
+Enceladus command: wave zach
+Enceladus command: red asdas
+Enceladus command: red asdas
+Enceladus command: god
+Enceladus command: godon
+Enceladus command: pickup 2938 
+Enceladus command: pickup 999 1
+Enceladus command: pickup 999 10000000
+Enceladus command: pickup 999 1000000000
+Enceladus command: pickup 0995 10000000
+Enceladus command: pickup 0995 1000000000
+Enceladus command: pickup 642
+Enceladus command: pickup 642 1
+Enceladus command: pickup 662 1
+Enceladus command: pickup 652 1
+Enceladus command: pickup 2589 1
+Enceladus command: pickup 4827 1
+Enceladus command: pickup 6891 1
+Enceladus command: pickup 5621 100
+Enceladus command: pickup 892 100
+Enceladus command: pickup 7608 1
+Enceladus command: spawn 13016
+Enceladus command: pickup 13016
+Enceladus command: pickup 13016 1
+Enceladus command: pickup 13017 1
+Enceladus command: pickup 13018 1
+Enceladus command: pickup 7938 1
+Enceladus command: pickup 3101 1
+Zach command: pickup 13016 1
+Zach command: tele 2726 3368
+Zach command: tele 2729 3373
+Zach command: tele 2731 3376
+Zach command: tele 2670 3808
+Zach command: tele 3126 3356
+Zach command: tele 2900 2915
+Zach command: tele 2465 3497
+Zach command: interface 16460
+Zach command: tele 2480 5170
+Zach command: tele 2933 3289
+Zach command: tele 2950 3512
+Zach command: tele 2500 3000
+Zach command: 2550 2900
+Zach command: tele 2400 280
+Zach command: tele 2400 2800
+Zach command: tele 2400 3000
+Zach command: tele 500 600
+Zach command: tele 9045 7647
+Zach command: master
+Zach command: pickup 995 10000000
+Zach command: pickup 995 1000000000
+Zach command: npc 45
+Zach command: tele 3445 3558
+Zach command: tele 3415 3541
+Zach command: tele 666 666
+Zach command: tele 2666 3666
+Zach command: tele 2802 2761
+Zach command: tele 5876 3000
+Zach command: tele 5555 3500
+Zach command: tele 4000 3500
+Zach command: tele 2500 2000
+Zach command: tele 2500 3200
+Zach command: pickup 35 1
+Zach command: pickup 1107 1
+Zach command: pickup 1077 1
+Zach command: pickup 14520 1
+Zach command: pickupo 7928 1
+Zach command: pickup 962 1
+Zach command: pickup 2750 1
+Zach command: pickup 2740 1
+Zach command: pickup 2743 1
+Zach command: pickup 7287 1
+Zach command: pickup 7291 1
+Zach command: pickup 3937 1
+Zach command: pickup 767 1
+Zach command: pickup 1038 1
+Zach command: pickup 1039 1
+Zach command: pickup 1040 1
+Zach command: pickup 1042 1
+Zach command: pickup 1044 1
+Zach command: pickup 1046 1
+Zach command: pickup 1048 1
+Zach command: pickup 2422 1
+Zach command: pickup 6583 1
+Zach command: pickup 7927 1
+Zach command: tele 1000 1000
+Zach command: tele 1000 3000
+Zach command: tele 1000 4000
+Zach command: tele 1500 3200
+Zach command: tele 9000 5000
+Zach command: tele 2500 3000
+Zach command: tele 2555 3000
+Zach command: tele 2600 3000
+Zach command: tele 2555 3000
+Zach command: 2575  3000
+Zach command: tele 2565 3000
+Zach command: 2565 3000
+Zach command: tele 2565 3000
+Zach command: tele 2566 3000
+Zach command: 2570 3050
+Zach command: tele 2570 3030
+Zach command: mypos
+Zach command: 3500 2000
+Zach command: tele 1100 3000
+Zach command: tele 1100 2500
+Zach command: 1100 2200 100
+Zach command: tele 2575 3027
+Zach command: tele 2575 3027 3
+Zach command: tele 2650 9900
+Zach command: mypos
+Zach command: tele 666 666
+Zach command: tele 666 2666
+Zach command: tele 2966 9633
+Zach command: tele 3233 2902
+Zach command: tele 3281 2765
+Zach command: tele 3294 2778
+Zach command: tele 3233 2902
+Zach command: tele 3257 9517
+Zach command: tele 3257 9517
+Zach command: tele 3245 9500
+Zach command: tele 2863 9570
+Zach command: tele 3490 3090
+Zach command: tele 2717 9808
+Zach command: tele 2319 9804
+Zach command: tele 2867 9955
+Zach command: tele 2856 3812
+Zach command: tele 2443 4956
+Zach command: tele 2241 3238
+Zach command: tele 2914 3450
+Zach command: tele 2758 3495
+Zach command: tele 2645 9900
+Zach command: tele 2375 4705
+Zach command: tele 2404 4649
+Zach command: tele 2044 4649
+Zach command: tele 3305 2789
+Zach command: tele 3281 2765
+Zach command: tele 2926 3482
+Zach command: tele 3274 2784
+Zach command: tele 2242 3278
+Zach command: tele 3516 3025
+Zach command: tele 2516 3044
+Zach command: tele 3051 3490
+Zach command: tele 2676 308
+Zach command: tele 2676 3008
+Zach command: tele 2676 3008
+Zach command: tele 3504 3574
+Zach command: pickup 995 1
+Zach command: tele 34::mypos
+Zach command: mypos
+Zach command: tele 3206 9379
+Zach command: pickup 4152 1
+Zach command: pickup 4151 1
+Zach command: pickkup 347 1
+Zach command: pickup 385 100
+Zach command: tele 2571 2512
+Zach command: tele 2512 3860
+Zach command: mypos
+Zach command: tele 3312 3234
+Zach command: tele 3430 9898
+Zach command: tele 2725 3367
+Zach command: tele 2513 3860
+Enceladus command: tele 3087 3492
+Zach command: ban
+Zach command: gfx 123
+Zach command: gfx 534
+Zach command: gfx 534
+Zach command: gfx 534
+Zach command: gfx 534
+Enceladus command: tele 2867 9955
+Enceladus command: tele 3051 3490
+Enceladus command: scimitar
+Enceladus command: tele 2867 9955
+Enceladus command: mypos
+Enceladus command: tele 2401 4836
+Enceladus command: mypos
+Enceladus command: mypos
+Enceladus command: mypos
+Enceladus command: tele 2867 9955
+Enceladus command: tele 3051 3490
+Loki command: mypos
+Loki command: pickup2591 1
+Loki command: pickup 2591 1
+Loki command: pickup 2593 1
+Loki command: pickup 2581 1
+Loki command: master
+Loki command: pickup1409 1
+Loki command: pickup 1409 1
+Loki command: pickup 2416
+Loki command: pickup 2416 1
+Loki command: pickup 4675 1
+Loki command: pickup 772 1
+Loki command: pickup 84 1
+Loki command: pickup 1401 1
+Loki command: pickup 2415 1
+Loki command: pickup 2417 1
+Loki command: pickup 3053 1
+Loki command: pickup 4170 1
+Loki command: pickup 4675
+Loki command: pickup 6727 1
+Loki command: pickup 6726 1
+Loki command: pickup 6562 1
+Loki command: pickup 6563 1
+Loki command: pickup 4711 1
+Loki command: pickup 4710 1
+Loki command: pickup 6603 1
+Loki command: pickup 87 1
+Loki command: pickup 2752 1
+Loki command: pickup 6570 1
+Loki command: pickup 1052 1
+Loki command: pickup 2412 1
+Loki command: pickup 2413 1
+Loki command: pickup 2414 1
+Loki command: pickup 2417 1
+Loki command: pickup 4089 1
+Loki command: pickup 1044 1
+Thor command: pickup 995 10000
+Thor command: tele 2500 3000
+Thor command: tele 2867 9955
+Thor command: cc delee
+Thor command: pickup 1052 1
+Thor command: pickup 1048 1
+Thor command: pickup 2415 1
+Thor command: master
+Thor command: pickup 2412 1
+Thor command: pickup 6615
+Thor command: pickup 6615 1
+Thor command: pickup 6625 1
+Thor command: pickup 7370 1
+Thor command: pickup 2949 1
+Thor command: pickup 3693 1
+Thor command: pickup 776 1
+Thor command: pickup 6900
+Thor command: pickup 6900 1
+Thor command: pickup 6900 1
+Thor command: pickup 3678 1
+Thor command: pickup 7668 1
+Thor command: pickup 4747 1
+Thor command: pickup 1949 1
+Thor command: pickup 658 1
+Thor command: pickup 638 1
+Thor command: pickup 648 1
+Thor command: pickup 4037 1
+Thor command: pickup 2665 1
+Thor command: pickup 2667 1
+Thor command: pickup 88 1
+Thor command: pickup 626 1
+Thor command: pickup 627 1
+Thor command: pickup 628 1
+Thor command: pickup 630 1
+Thor command: pickup 632 1
+Thor command: pickup 634 1
+Thor command: pickup 2894 1
+Thor command: pickup 2896 1
+Thor command: pickup 2904 1
+Thor command: pickup 2914 1
+Thor command: pickup 87 1
+Thor command: pickup 5556 1
+Thor command: pickup 3800 1
+Thor command: pickup 2520
+Thor command: pickup 2520 1
+Thor command: pickup 2526 1
+Thor command: pickup 3871 1
+Thor command: pickup 3876 1
+Thor command: pickup 6922 1
+Thor command: pickup 7609 1
+Thor command: pickup 7609 1
+Thor command: pickup 7608 1
+Thor command: pickup 35 1
+Thor command: pickup 7808 1
+Thor command: pickup 6105 1
+Thor command: pickup 7806 1
+Thor command: pickup 623 1
+Thor command: pickup 5576 1
+Thor command: pickup 4749 1
+Thor command: pickup ::pickup 5612 1
+Thor command: pickup 5612 1
+Thor command: pickup 5575 1
+Thor command: pickup 746 1
+Thor command: pickup 2402 1
+Thor command: pickup 667 1
+Thor command: pickup 6601 1
+Thor command: pickup 6613 1
+Thor command: pickup 4674 1
+Thor command: pickup 4720 1
+Thor command: pickup 4728 1
+Thor command: pickup 4749 1
+Thor command: pickup 3140 1
+Thor command: pickup 7611 1
+Thor command: pickup 642 1
+Thor command: pickup 2589 1
+Thor command: pickup 652 1
+Thor command: pickup 652 1
+Thor command: pickup 662 1
+Thor command: pickup 1107 1
+Thor command: pickup 2904 1
+Thor command: pickup ::pickup 6585 1
+Thor command: pickup 6585 1
+Thor command: pickup 3881 1
+Loki command: pickup 6894
+Loki command: pickup 6894 1
+Loki command: pickup 3888 1
+Loki command: pickup 14521 1
+Loki command: pickup 7738 1
+Loki command: pickup 7899 1
+Loki command: pickup 7778 1
+Loki command: pickup 2743 1
+Loki command: pickup 2742 1
+Loki command: pickup 2740 1
+Loki command: pickup 995 1000000000
+Loki command: pickup 3877 1
+Loki command: pickup 3878 1
+Loki command: pickup 6619 1
+Loki command: pickup 1837 1
+Loki command: pickup 2741 1
+Loki command: pickup 13647 1
+Loki command: bow
+Loki command: hello
+Loki command: yell helo
+Loki command: pickup 4363 1
+Loki command: pickup 4363 1
+Loki command: pickup 3873 1
+Loki command: pickup 3874 1
+Loki command: pickup 3871 1
+Loki command: pickup 3869 1
+Loki command: pickup 3870 1
+Loki command: spawn 2473
+Loki command: mypos
+Loki command: 2473 3087 3489
+Loki command: obj 3243
+Loki command: object 2473
+Loki command: npc 314
+Loki command: xnpc 144
+Loki command: npc 144
+Loki command: zx13
+Loki command:  zx 12
+Loki command: pickup 13012 1
+Loki command: pnpc 144
+Loki command: pnpc 424
+Loki command: pnpc 81
+Loki command: pnpc 30
+Loki command: pnpc 1052
+Loki command: pnpc 2128
+Loki command: pnpc 50
+Loki command: pnpc30
+Loki command: pnpc 50
+Loki command: pnpc 1
+Loki command: pnpc 2
+Loki command: pnpc 83
+Loki command: pnpc 98
+Loki command: pnpc 666
+Loki command: pnpc 103
+Loki command: pnpc 104
+Loki command: pnpc 1050
+Loki command: pnpc 457
+Loki command: pnpc 0
+Loki command: pnpc 1
+Loki command: pnpc 2400
+Loki command: pnpc 5000
+Loki command: pnpc 1158
+Loki command: pnpc 1739
+Loki command: pnpc 1739
+Thor command: pickup 4757 1
+Thor command: 3051 3490
+Thor command: tele 3051 3490
+Thor command: tele 3304 3166
+Thor command: tele 2867 9844
+Thor command: delete
+Thor command: tele 5345
+Thor command: jail thor
+Thor command: tele 2652 9999
+Thor command: tele 2652 9995
+Thor command: tele 2652 1010
+Thor command: tele 2652 10100
+Thor command: tele 2652 10002
+Thor command: mypos
+Thor command: mypos
+Thor command: tele 2653 10010
+Thor command: tele 2683 10015
+Thor command: tele 2675 10015
+Thor command: tele 2665 10015
+Thor command: tele 2665 10025
+Thor command: tele 2665 10032
+Thor command: tele 2665 10025
+Thor command: tele 2665 10035
+Thor command: mpos
+Thor command: mypos
+Thor command: spawn 80
+Thor command: object 2014
+Thor command: mypos
+Thor command: object 6551
+Thor command: object 7316
+Thor command: object 4408
+Thor command: object 2880
+Thor command: object 2156
+Thor command: mypos
+Thor command: object 2156
+Thor command: object 9973
+Thor command: object 9210
+Thor command: object 2156
+Thor command: mypos
+Thor command: mypos
+Thor command: mypos
+Thor command: mypos
+Thor command: mypos
+Thor command: mypos

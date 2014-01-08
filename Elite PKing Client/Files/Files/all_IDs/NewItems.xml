@@ -1,0 +1,163 @@
+<newitemdb>
+
+<item members="true"  name="Void Knight Top"  type="2520"> </item>
+<item members="true"  name="Void Knight Bottom"  type="2522"> </item>
+<item members="true"  name="Void Melee Helm"  type="2526"> </item>
+<item members="true"  name="Void Ranger Helm"  type="2524"> </item>
+<item members="true"  name="Void Mage Helm"  type="2518"> </item>
+<item members="true"  name="Zamorak D'hide Top"  type="3869"> </item>
+<item members="true"  name="Zamorak D'hide Chaps"  type="3870"> </item>
+<item members="true"  name="Zamorak D'hide Coif"  type="3871"> </item>
+<item members="true"  name="Zamorak D'hide Bracers"  type="3872"> </item>
+<item members="true"  name="Saradomin D'hide Top"  type="3873"> </item>
+<item members="true"  name="Saradomin D'hide Chaps"  type="3874"> </item>
+<item members="true"  name="Saradomin D'hide Coif"  type="3875"> </item>
+<item members="true"  name="Saradomin D'hide Bracers"  type="3876"> </item>
+<item members="true"  name="Guthix D'hide Top"  type="3877"> </item>
+<item members="true"  name="Guthix D'hide Chaps"  type="3878"> </item>
+<item members="true"  name="Guthix D'hide Coif"  type="3879"> </item>
+<item members="true"  name="Guthix D'hide Bracers"  type="3880"> </item>
+<item members="true"  name="Bronze Partyhat"  type="6898"> </item>
+<item members="true"  name="Iron Partyhat"  type="6897"> </item>
+<item members="true"  name="Black Partyhat"  type="6992"> </item>
+<item members="true"  name="Mithril Partyhat"  type="6895"> </item>
+<item members="true"  name="Adamant Partyhat"  type="6894"> </item>
+<item members="true"  name="Rune Partyhat"  type="6893"> </item>
+<item members="true"  name="Barrows Partyhat"  type="6891"> </item>
+<item members="true"  name="Gold Party Hat"  type="6900"> </item>
+<item members="true"  name="Granite Helm"  type="3881"> </item>
+<item members="true"  name="Granite Body"  type="3882"> </item>
+<item members="true"  name="Powdered Wig"  type="3883"> </item>
+<item members="true"  name="Black Elegant Shirt"  type="3884"> </item>
+<item members="true"  name="Blue Elegant Shirt"  type="3885"> </item>
+<item members="true"  name="Red Elegant Shirt"  type="3886"> </item>
+<item members="true"  name="Purple Elegant Shirt"  type="3887"> </item>
+<item members="true"  name="Green Elegant Shirt"  type="3888"> </item>
+<item members="true"  name="Black Elegant Legs"  type="3889"> </item>
+<item members="true"  name="Blue Elegant Legs"  type="3890"> </item>
+<item members="true"  name="Red Elegant Legs"  type="3891"> </item>
+<item members="true"  name="Purple Elegant Legs"  type="3892"> </item>
+<item members="true"  name="Green Elegant Legs"  type="7096"> </item>
+<item members="true"  name="Zamorak Cloak"  type="7097"> </item>
+<item members="true"  name="Saradomin Cloak"  type="7098"> </item>
+<item members="true"  name="Guthix Cloak"  type="7099"> </item>
+<item members="true"  name="Bluerite C'bow"  type="7100"> </item>
+<item members="true"  name="Runite C'bow"  type="837"> </item>
+<item members="true"  name="Adamantite C'bow"  type="7101"> </item>
+<item members="true"  name="Mithril C'bow"  type="7102"> </item>
+<item members="true"  name="Black C'bow"  type="7103"> </item>
+<item members="true"  name="Steel C'bow"  type="7104"> </item>
+<item members="true"  name="Iron C'bow"  type="7105"> </item>
+<item members="true"  name="Bronze C'bow"  type="7106"> </item>
+<item members="true"  name="Astral Rune"  type="553"> </item>
+<item members="true"  name="Black Bolts"  type="879"> </item>
+<item members="true"  name="Adamant Bolts"  type="880"> </item>
+<item members="true"  name="Runite Bolts"  type="881"> </item>
+<item members="true"  name="Firecape"  type="6570"> </item>
+<item members="true"  name="Dragonfire Shield"  type="2621"> </item>
+<item members="true"  name="Attack Cape"  type="2677"> </item>
+<item members="true"  name="Attack Cape (T)"  type="4319"> </item>
+<item members="true"  name="Attack"  type="2679"> </item>
+<item members="true"  name="Strength Cape"  type="2680"> </item>
+<item members="true"  name="Strength Cape (T)"  type="4359"> </item>
+<item members="true"  name="Strength Hood"  type="2682"> </item>
+<item members="true"  name="Defence Cape"  type="2683"> </item>
+<item members="true"  name="Defence Cape (T)"  type="4329"> </item>
+<item members="true"  name="Defence Hood"  type="2685"> </item>
+<item members="true"  name="Ranging Cape"  type="2686"> </item>
+<item members="true"  name="Ranging Cape (T)"  type="4351"> </item>
+<item members="true"  name="Ranging Hood"  type="2688"> </item>
+<item members="true"  name="Prayer Cape"  type="2689"> </item>
+<item members="true"  name="Prayer Cape (T)"  type="4347"> </item>
+<item members="true"  name="Prayer Hood"  type="2691"> </item>
+<item members="true"  name="Magic Cape"  type="2692"> </item>
+<item members="true"  name="Magic Cape (T)"  type="4343"> </item>
+<item members="true"  name="Magic Hood"  type="2694"> </item>
+<item members="true"  name="Firemaking Cape"  type="2695"> </item>
+<item members="true"  name="Firemaking Cape (T)"  type="4321"> </item>
+<item members="true"  name="Firemaking Hood"  type="2967"> </item>
+<item members="true"  name="Runecrafting Cape"  type="2698"> </item>
+<item members="true"  name="Runecrafting Cape (T)"  type="4333"> </item>
+<item members="true"  name="Runecrafting Hood"  type="2700"> </item>
+<item members="true"  name="Hitpoints Cape"  type="2701"> </item>
+<item members="true"  name="Hitpoints Cape (T)"  type="4341"> </item>
+<item members="true"  name="Hitpoints Hood"  type="2703"> </item>
+<item members="true"  name="Agility Cape"  type="2704"> </item>
+<item members="true"  name="Agiliy Cape (T)"  type="4317"> </item>
+<item members="true"  name="Agility Hood"  type="2706"> </item>
+<item members="true"  name="Herblore Cape"  type="2707"> </item>
+<item members="true"  name="Herblore Cape (T)"  type="4339"> </item>
+<item members="true"  name="Herblore Hood"  type="2709"> </item>
+<item members="true"  name="Thieving Cape"  type="2710"> </item>
+<item members="true"  name="Thieving Cape (T)"  type="4361"> </item>
+<item members="true"  name="Thieving Hood"  type="2712"> </item>
+<item members="true"  name="Crafting Cape"  type="2713"> </item>
+<item members="true"  name="Crafting Cape (T)"  type="4327"> </item>
+<item members="true"  name="Crafting Hood"  type="2715"> </item>
+<item members="true"  name="Fletching Cape"  type="2716"> </item>
+<item members="true"  name="Fletching Cape (T)"  type="4337"> </item>
+<item members="true"  name="Fletching Hood"  type="2718"> </item>
+<item members="true"  name="Slayer Cape"  type="2719"> </item>
+<item members="true"  name="Slayer Cape (T)"  type="4355"> </item>
+<item members="true"  name="Slayer Hood"  type="2721"> </item>
+<item members="true"  name="Mining Cape"  type="2722"> </item>
+<item members="true"  name="Mining Cape (T)"  type="4345"> </item>
+<item members="true"  name="Mining Hood"  type="2724"> </item>
+<item members="true"  name="Smithing Cape"  type="2725"> </item>
+<item members="true"  name="Smithing Cape (T)"  type="4357"> </item>
+<item members="true"  name="Smithing Hood"  type="2727"> </item>
+<item members="true"  name="Fishing Cape"  type="2728"> </item>
+<item members="true"  name="Fishing Cape (T)"  type="4335"> </item>
+<item members="true"  name="Fishing Hood"  type="2730"> </item>
+<item members="true"  name="Cooking Cape"  type="2731"> </item>
+<item members="true"  name="Cooking Cape (T)"  type="4325"> </item>
+<item members="true"  name="Cooking Hood"  type="2733"> </item>
+<item members="true"  name="Woodcutting Cape"  type="2734"> </item>
+<item members="true"  name="Woodcutting Cape (T)"  type="4353"> </item>
+<item members="true"  name="Woodcutting Hood"  type="2736"> </item>
+<item members="true"  name="Farming Cape"  type="2737"> </item>
+<item members="true"  name="Farming Cape (T)"  type="4331"> </item>
+<item members="true"  name="Farming Hood"  type="2739"> </item>
+<item members="true"  name="Construction Cape"  type="2742"> </item>
+<item members="true"  name="Construction Cape (T)"  type="2743"> </item>
+<item members="true"  name="Construction Hood"  type="2744"> </item>
+<item members="true"  name="Quest Cape"  type="2740"> </item>
+<item members="true"  name="Quest Hood"  type="2741"> </item>
+<item members="true"  name="Bandos Godsword"  type="667"> </item>
+<item members="true"  name="Armadyl Godsword"  type="35"> </item>
+<item members="true"  name="Saradomin Godsword"  type="2402"> </item>
+<item members="true"  name="Zamorak Godsword"  type="746"> </item>
+<item members="true"  name="Santa Legs"  type="2749"> </item>
+<item members="true"  name="Santa Body"  type="2750"> </item>
+<item members="true"  name="Santa Kite"  type="2751"> </item>
+<item members="true"  name="Santa Cape"  type="2752"> </item>
+<item members="true"  name="Santa Gloves"  type="2753"> </item>
+<item members="true"  name="Santa Boots"  type="2754"> </item>
+<item members="true"  name="Donator Ticket"  type="748"> </item>
+<item members="true"  name="Rune Defender"  type="3101"> </item>
+<item members="true"  name="Fighter Tosro"  type="430"> </item>
+<item members="true"  name="Dark Bow"  type="4827"> </item>
+<item members="true"  name="Dragon Boots"  type="2904"> </item>
+<item members="true"  name="Bandos Chestplate"  type="1107"> </item>
+<item members="true"  name="Bandos Tassets"  type="1077"> </item>
+<item members="true"  name="Armadyl Chestplate"  type="7608"> </item>
+<item members="true"  name="Armadyl Plateskirt"  type="7609"> </item>
+<item members="true"  name="Helm of Neitiznot"  type="3753"> </item>
+<item members="true"  name="Dragon Full Helm"  type="7611"> </item>
+<item members="true"  name="Fighter Hat"  type="1949"> </item>
+<item members="true"  name="3rd Age Platebody"  type="642"> </item>
+<item members="true"  name="3rd Age Platelegs"  type="652"> </item>
+<item members="true"  name="3rd Age Full Helm"  type="662"> </item>
+<item members="true"  name="3rd Age Kiteshield"  type="2589"> </item>
+<item members="true"  name="3rd Age Robe Top"  type="640"> </item>
+<item members="true"  name="3rd Age Robe"  type="650"> </item>
+<item members="true"  name="3rd Age Mage Hat"  type="660"> </item>
+<item members="true"  name="3rd Age Range Top"  type="638"> </item>
+<item members="true"  name="3rd Age Range Legs"  type="648"> </item>
+<item members="true"  name="3rd Age Range Coif"  type="658"> </item>
+<item members="true"  name="3rd Age Range Vambraces"  type="3629"> </item>
+
+
+
+
+</newitemdb>

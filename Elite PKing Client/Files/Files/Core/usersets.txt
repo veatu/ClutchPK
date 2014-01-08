@@ -1,0 +1,9 @@
+character-username = 
+character-password = 
+character-namecolour = 0
+character-chatcolour = 255
+character-chattextcolour = 0
+character-chattexteffect = 0
+character-chattextdetail = 1
+
+

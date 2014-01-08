@@ -1,0 +1,71 @@
+13665 dragon plate
+8002 dragon claw
+8004 dragon bow
+13642 statius's full helm
+13643 statius's warhammer
+13644 vesta longsword 
+13645 vesta spear
+13646 zuriel hood
+13647 zuriel staff
+13648 morrigan coif
+13649 morrigan javelin
+13650 morrigan throwing axe
+1700 bandos war spear
+
+44815.dat-817 monster
+44789.dat-90 elite 
+44719
+44637 could be cool tele/barrier
+44594 dagon'hai top
+44585 black elite pl8
+44577 black elite helm
+44574 dagon'hai skirt
+44502 cool flame
+44434 crossing swords
+44047 libary style
+43694 elite legs
+43691 dagon'hai hat
+43692 elite helm again
+43693 dagon'hai skirt again
+43689 dagon'hai top look female
+43686 elite top look female
+43682 black elite sleeves
+43681 dagon'hai sleeves
+43645 black elite legs female i think
+43642 sweet looking kinda like bandos legs might find a top :p
+43638 found another black elite helm
+43633 found a top for those kool legs :p
+43629 cool npc that could be cool to train on :o
+43622 could be a good replace for warriors
+43621 could be black elite women :s
+43620 black knight castle new guards :p
+43614 dagon'hai top looks better then first one i look at i think
+43602 sleeves for the cool looking bandos armour
+43601 black elite sleeves again
+43599 another black elite sleeve :p
+43598 a cleaner version of the cool bandos looking sleeves could use this armour for combo with statius
+
+npc
+1550 rev imp
+1551 rev icefiend
+1552 rev pyrefiend
+1553 rev hobgoblin
+1554 rev vampire
+1555 rev werewolf
+1556 rev cyclops
+1557 rev hellhound
+1558 rev ork
+1559 rev darkbeast
+1560 rev knight
+1561 rev knight2
+
+1562 skree
+1563 kilisa
+1572 Geerin
+1565 growler
+1568 bree
+1569 grimspike
+1570 steelwill
+1571 sergant strong
+2679 Arma boss
+3002 sara boss

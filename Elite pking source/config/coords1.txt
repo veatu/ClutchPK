@@ -1,0 +1,4 @@
+Draynor:  3080, 3250
+yanille:  2611,3093
+minigame: 2717,9807
+fishing colony: 2345, 3694

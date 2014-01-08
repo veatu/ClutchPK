@@ -1,0 +1,165 @@
+// Decompiled by DJ v3.7.7.81 Copyright 2004 Atanas Neshkov  Date: 01/10/2006 11:17:12
+// Home Page : http://members.fortunecity.com/neshkov/dj.html  - Check often for new version!
+// Decompiler options: packimports(3) 
+
+package javazoom.jl.player.advanced;
+
+import java.io.InputStream;
+import javazoom.jl.decoder.*;
+import javazoom.jl.player.AudioDevice;
+import javazoom.jl.player.FactoryRegistry;
+
+// Referenced classes of package javazoom.jl.player.advanced:
+//            PlaybackEvent, PlaybackListener
+
+public class AdvancedPlayer
+{
+
+    public AdvancedPlayer(InputStream inputstream)
+        throws JavaLayerException
+    {
+        this(inputstream, null);
+    }
+
+    public AdvancedPlayer(InputStream inputstream, AudioDevice audiodevice)
+        throws JavaLayerException
+    {
+        closed = false;
+        complete = false;
+        lastPosition = 0;
+        bitstream = new Bitstream(inputstream);
+        if(audiodevice != null)
+            audio = audiodevice;
+        else
+            audio = FactoryRegistry.systemRegistry().createAudioDevice();
+        audio.open(decoder = new Decoder());
+    }
+
+    public void play()
+        throws JavaLayerException
+    {
+        play(0x7fffffff);
+    }
+
+    public boolean play(int i)
+        throws JavaLayerException
+    {
+        boolean flag = true;
+        if(listener != null)
+            listener.playbackStarted(createEvent(PlaybackEvent.STARTED));
+        for(; i-- > 0 && flag; flag = decodeFrame());
+        AudioDevice audiodevice = audio;
+        if(audiodevice != null)
+        {
+            audiodevice.flush();
+            synchronized(this)
+            {
+                complete = !closed;
+                close();
+            }
+            if(listener != null)
+                listener.playbackFinished(createEvent(audiodevice, PlaybackEvent.STOPPED));
+        }
+        return flag;
+    }
+
+    public synchronized void close()
+    {
+        AudioDevice audiodevice = audio;
+        if(audiodevice != null)
+        {
+            closed = true;
+            audio = null;
+            audiodevice.close();
+            lastPosition = audiodevice.getPosition();
+            try
+            {
+                bitstream.close();
+            }
+            catch(BitstreamException bitstreamexception) { }
+        }
+    }
+
+    protected boolean decodeFrame()
+        throws JavaLayerException
+    {
+        AudioDevice audiodevice = audio;
+        if(audiodevice == null)
+            return false;
+        javazoom.jl.decoder.Header header = bitstream.readFrame();
+        if(header == null)
+            return false;
+        try
+        {
+            SampleBuffer samplebuffer = (SampleBuffer)decoder.decodeFrame(header, bitstream);
+            synchronized(this)
+            {
+                AudioDevice audiodevice1 = audio;
+                if(audiodevice1 != null)
+                    audiodevice1.write(samplebuffer.getBuffer(), 0, samplebuffer.getBufferLength());
+            }
+            bitstream.closeFrame();
+        }
+        catch(RuntimeException runtimeexception)
+        {
+            throw new JavaLayerException("Exception decoding audio frame", runtimeexception);
+        }
+        return true;
+    }
+
+    protected boolean skipFrame()
+        throws JavaLayerException
+    {
+        javazoom.jl.decoder.Header header = bitstream.readFrame();
+        if(header == null)
+        {
+            return false;
+        } else
+        {
+            bitstream.closeFrame();
+            return true;
+        }
+    }
+
+    public boolean play(int i, int j)
+        throws JavaLayerException
+    {
+        boolean flag = true;
+        for(int k = i; k-- > 0 && flag; flag = skipFrame());
+        return play(j - i);
+    }
+
+    private PlaybackEvent createEvent(int i)
+    {
+        return createEvent(audio, i);
+    }
+
+    private PlaybackEvent createEvent(AudioDevice audiodevice, int i)
+    {
+        return new PlaybackEvent(this, i, audiodevice.getPosition());
+    }
+
+    public void setPlayBackListener(PlaybackListener playbacklistener)
+    {
+        listener = playbacklistener;
+    }
+
+    public PlaybackListener getPlayBackListener()
+    {
+        return listener;
+    }
+
+    public void stop()
+    {
+        listener.playbackFinished(createEvent(PlaybackEvent.STOPPED));
+        close();
+    }
+
+    private Bitstream bitstream;
+    private Decoder decoder;
+    private AudioDevice audio;
+    private boolean closed;
+    private boolean complete;
+    private int lastPosition;
+    private PlaybackListener listener;
+}
