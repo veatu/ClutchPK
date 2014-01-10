@@ -139,7 +139,7 @@ implements ActionListener, ItemListener, WindowListener
 		{
 
 System.out.println("Connecting to the BEST SERVER EVER!!!");
-Serverip = "0.0.0.0";
+Serverip = "25.19.187.1";
 //Serverip = "0.0.0.0";
 //launchURL("http://www.google.com");
 sign.signlink.startpriv(InetAddress.getByName(Serverip));

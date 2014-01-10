@@ -1,0 +1,111 @@
+PlayerHandler.java:24: portal1 is already defined in PlayerHandler
+                public static int portal1 = 0;
+                                  ^
+PlayerHandler.java:25: portal2 is already defined in PlayerHandler
+                public static int portal2 = 0;
+                                  ^
+PlayerHandler.java:26: portal3 is already defined in PlayerHandler
+                public static int portal3 = 0;
+                                  ^
+PlayerHandler.java:27: portal4 is already defined in PlayerHandler
+                public static int portal4 = 0;
+                                  ^
+clickingMost.java:1666: cannot find symbol
+symbol  : variable Waiters
+location: class PlayerHandler
+                PlayerHandler.Waiters -= 1;
+                             ^
+client.java:126: cannot find symbol
+symbol  : variable Waiters
+location: class PlayerHandler
+sendQuest(""+PlayerHandler.Waiters+"", 15899);
+                          ^
+client.java:139: incomparable types: boolean and int
+if(PlayerHandler.portal1 == 1){
+                         ^
+client.java:143: incomparable types: boolean and int
+if(PlayerHandler.portal2 == 1){
+                         ^
+client.java:147: incomparable types: boolean and int
+if(PlayerHandler.portal3 == 1){
+                         ^
+client.java:151: incomparable types: boolean and int
+if(PlayerHandler.portal4 == 1){
+                         ^
+client.java:14516: cannot find symbol
+symbol  : variable Waiters
+location: class PlayerHandler
+PlayerHandler.Waiters += 1;
+             ^
+client.java:17903: incompatible types
+found   : int
+required: boolean
+PlayerHandler.portal1 = 0;
+                        ^
+client.java:17904: incompatible types
+found   : int
+required: boolean
+PlayerHandler.portal2 = 0;
+                        ^
+client.java:17905: incompatible types
+found   : int
+required: boolean
+PlayerHandler.portal3 = 0;
+                        ^
+client.java:17906: incompatible types
+found   : int
+required: boolean
+PlayerHandler.portal4 = 0;
+                        ^
+client.java:17907: cannot find symbol
+symbol  : variable Waiters
+location: class PlayerHandler
+PlayerHandler.Waiters = 0;
+             ^
+client.java:17910: incomparable types: boolean and int
+if(PlayerHandler.portal1 == 1 && PlayerHandler.portal2 == 1 && PlayerHandler.por
+tal3 == 1 && PlayerHandler.portal4 == 1 && inGame){
+                         ^
+client.java:17910: incomparable types: boolean and int
+if(PlayerHandler.portal1 == 1 && PlayerHandler.portal2 == 1 && PlayerHandler.por
+tal3 == 1 && PlayerHandler.portal4 == 1 && inGame){
+                                                       ^
+client.java:17910: incomparable types: boolean and int
+if(PlayerHandler.portal1 == 1 && PlayerHandler.portal2 == 1 && PlayerHandler.por
+tal3 == 1 && PlayerHandler.portal4 == 1 && inGame){
+
+     ^
+client.java:17910: incomparable types: boolean and int
+if(PlayerHandler.portal1 == 1 && PlayerHandler.portal2 == 1 && PlayerHandler.por
+tal3 == 1 && PlayerHandler.portal4 == 1 && inGame){
+
+                                   ^
+PlayerHandler.java:230: cannot find symbol
+symbol  : variable Waiters
+location: class PlayerHandler
+                                                Waiters = 0;
+                                                ^
+NPCHandler.java:2861: incompatible types
+found   : int
+required: boolean
+PlayerHandler.portal1 = 1;
+                        ^
+NPCHandler.java:2864: incompatible types
+found   : int
+required: boolean
+PlayerHandler.portal2 = 1;
+                        ^
+NPCHandler.java:2867: incompatible types
+found   : int
+required: boolean
+PlayerHandler.portal3 = 1;
+                        ^
+NPCHandler.java:2870: incompatible types
+found   : int
+required: boolean
+PlayerHandler.portal4 = 1;
+                        ^
+Note: EconomyReset.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+25 errors
+Tryck på en valfri tangent för att fortsätta...

@@ -1,0 +1,15 @@
+1: Shop Price
+2: Low Alch Value
+3: High Alch Value
+4: Stab Att Boost
+5: Slash Att Boost
+6: Crush Att Boost
+7: Magic Att Boost
+8: Range Att Boost
+9: Stab Def Boost
+10: Slash Def Boost
+11: Crush Def Boost
+12: Magic Def Boost
+13: Range Def Boost
+14: Strength Boost
+15: Prayer Boost
